@@ -224,21 +224,22 @@
     },
     {
         "id": "mochila-13",
-        "titulo": "REVISARRRR",
-        "imagen": "./img/mochilas/8_20240601_123544_0007.png",
+        "titulo": "Mochila Lacoste",
+        "imagen": "img/mochilas/Screenshot_20241212-112631-677.png",
         "imagenes_adicionales": [
-            "img/Mochilas/9_20240601_123544_0008.png",
-            "img/Mochilas/6_20240601_123544_0005.png",
-            "img/Mochilas/7_20240601_123544_0006.png",
-            "img/Mochilas/12_20240601_123544_0011.png"
+            "img/mochilas/Screenshot_20241212-112622-303.png",
+            "img/mochilas/Screenshot_20241212-112640-552.png",
+            "img/mochilas/Screenshot_20241212-112739-712.png",
+            "img/mochilas/Screenshot_20241212-112730-027.png",
+            "img/mochilas/Screenshot_20241212-112751-072.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Estampado Lacoste, un solo compartimento + bolsillo delantero y en los costados.",
+        "medidas": "45cm de alto, 30cm de largo, 13cm de profundidad",
+        "precio": "24.000"
     },
     {
         "id": "mochila-14",
@@ -280,18 +281,24 @@
     },
     {
         "id": "mochila-16",
-        "titulo": "Mochila universitaria",
-        "imagen": "",
+        "titulo": "Mochila",
+        "imagen": "img/mochilas/Photoroom-20241212_115854.png",
         "imagenes_adicionales": [
-            
+            "img/mochilas/Photoroom-20241212_115927.png",
+            "img/mochilas/Photoroom-20241212_115944.png",
+            "img/mochilas/Photoroom-20241212_120007.png",
+            "img/mochilas/Photoroom-20241212_120021.png",
+            "img/mochilas/Photoroom-20241212_120043.png",
+            "img/mochilas/Photoroom-20241212_120102.png",
+            "img/mochilas/Photoroom-20241212_120120.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "Mochila universitaria de lona impermeable y cuero ecológico.",
-        "medidas": "38cm de alto por 28cm de largo.",
-        "precio": "26.000"
+        "descripcion": "Mochila impermeable.",
+        "medidas": "36cm de alto por 30cm de largo.",
+        "precio": "37.000"
     },
     {
         "id": "mochila-17",
@@ -706,16 +713,20 @@
     {
         "id": "mochila-38.1",
         "titulo": "Mochila",
-        "imagen": "./img/mochilas/main.webp",
+        "imagen": "img/mochilas/Screenshot_20241211-202938-178.png",
         "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241211-202928-658.png",
+        "img/mochilas/Screenshot_20241211-202920-320.png",
+        "img/mochilas/Screenshot_20241211-202912-341.png",
+        "img/mochilas/Screenshot_20241211-202903-824.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "dgogdohgodhg",
-        "medidas": "25 x 25",
-        "precio": "1000"
+        "descripcion": "Mochilas impermeables, diferentes modelos.",
+        "medidas": "45cm de alto por 31cm de largo.",
+        "precio": "24.000"
     },
     {
         "id": "mochila-39",
@@ -750,20 +761,80 @@
     },
     {
         "id": "mochila-41",
-        "titulo": "No hay mas",
-        "imagen": "",
+        "titulo": "Mochila de viaje",
+        "imagen": "img/mochilas/Screenshot_20241212-165126-583.png",
         "imagenes_adicionales": [
-            ""
+            "img/mochilas/Screenshot_20241212-165145-519.png",
+            "img/mochilas/Screenshot_20241212-165155-351.png",
+            "img/mochilas/Screenshot_20241212-165135-571.png",
+            "img/mochilas/Screenshot_20241212-192953-169.png",
+            "img/mochilas/Screenshot_20241212-193055-309.png",
+            "img/mochilas/Screenshot_20241212-193041-173.png",
+            "img/mochilas/Screenshot_20241212-193004-184.png"
+                        ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila espaciosa y resistente, ideal para viajar. Cuenta con multiples compartimentos.",
+        "medidas": "42cm de alto, 20cm de profundidad, 32cm de largo.",
+        "precio": "65.000"
+    },
+    {
+        "id": "mochila-42",
+        "titulo": "Mochila",
+        "imagen": "img/mochilas/Screenshot_20241212-165944-302.png",
+        "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241212-170030-860.png",
+        "img/mochilas/Screenshot_20241212-170012-184.png",
+        "img/mochilas/Screenshot_20241212-170003-705.png",
+        "img/mochilas/Screenshot_20241212-165954-149.png"
+        ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "No incluye llavero.",
+        "medidas": "46cm de alto por 33cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-43",
+        "titulo": "Mochila",
+        "imagen": "img/mochilas/Screenshot_20241212-165854-552.png",
+        "imagenes_adicionales": [
+            "img/mochilas/Screenshot_20241212-165845-486.png",
+            "img/mochilas/Screenshot_20241212-165828-978.png",
+            "img/mochilas/Screenshot_20241212-165836-985.png",
+            "img/mochilas/Screenshot_20241212-165914-083.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "dgogdohgodhg",
-        "medidas": "25 x 25",
-        "precio": "25.000"
+        "descripcion": "",
+        "medidas": "43cm de alto por 30cm de largo",
+        "precio": "40.000"
     },
-
+    {
+        "id": "mochila-44",
+        "titulo": "Mochila multifunción",
+        "imagen": "img/mochilas/Screenshot_20241212-165309-600.png",
+        "imagenes_adicionales": [
+            "img/mochilas/Screenshot_20241212-165238-960.png",
+            "img/mochilas/Screenshot_20241212-165358-912.png",
+            "img/mochilas/Screenshot_20241212-165341-825.png",
+            "img/mochilas/Screenshot_20241212-165331-840.png",
+            "img/mochilas/Screenshot_20241212-165251-694.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila multifuncional, puede usarse como maletín, bolso o mochila. Cuenta con multiples compartimetnos.",
+        "medidas": "42cm de alto, 32cm de largo, 15cm de profundidad.",
+        "precio": "65.000"
+    },
     {
         "id": "cyb-01",
         "titulo": "Cartera / morral de cuero PU ",
@@ -1256,7 +1327,7 @@
             "img/Riñoneras y pecheras/Photoroom-20241129_121146.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Impermeable.",
@@ -1276,7 +1347,7 @@
             "img/Riñoneras y pecheras/Photoroom-20241129_123445.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1294,7 +1365,7 @@
             "img/Riñoneras y pecheras/5_20240601_002603_0004.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Impermeable.",
@@ -1312,7 +1383,7 @@
             "img/Riñoneras y pecheras/4_20240601_122101_0003.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Pechera de Boca Juniors, original.",
@@ -1329,7 +1400,7 @@
             "img/Riñoneras y pecheras/9_20240601_120713_0008.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Pechera de River Plate, original.",
@@ -1347,7 +1418,7 @@
             "img/Riñoneras y pecheras/5_20240601_120713_0004.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Es impermeable.",
@@ -1365,7 +1436,7 @@
             "img/Riñoneras y pecheras/Photoroom-20240629_130041.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1386,7 +1457,7 @@
             "img/Riñoneras y pecheras/Photoroom-20240817_104753~2.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1401,7 +1472,7 @@
             "img/Riñoneras y pecheras/Screenshot_20240826-173747-056.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1420,7 +1491,7 @@
             "img/Riñoneras y pecheras/Photoroom-20240924_214047.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Morral cruzado grande, de tela impermeable, engomado, varios compartimentos. Trae cable USB.",
@@ -1439,7 +1510,7 @@
             "img/Riñoneras y pecheras/Screenshot_20240922-190154-447.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1458,7 +1529,7 @@
             "img/Riñoneras y pecheras/Photoroom-20241129_122356.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "Morral cruzado, impermeable.",
@@ -1478,7 +1549,7 @@
             "img/Riñoneras y pecheras/Photoroom-20241128_234219.png"
             ],
         "categoria": {
-            "nombre": "pecheras",
+            "nombre": "Pecheras",
             "id": "pecheras"
         },
         "descripcion": "",
@@ -1558,26 +1629,7 @@
     },
     {
         "id": "matero-02",
-        "titulo": "Matero",
-        "imagen": "img/Materos/Photoroom-20241021_200615.png",
-        "imagenes_adicionales": [
-            "img/Materos/Photoroom-20241021_200707.png",
-            "img/Materos/Photoroom-20241021_200725.png",
-            "img/Materos/Photoroom-20241021_200648.png",
-            "img/Mochilas Escolares/Photoroom-20241128_185808.png",
-            "img/Mochilas Escolares/Photoroom-20241128_185845.png"
-            ],
-        "categoria": {
-            "nombre": "Matero",
-            "id": "materos"
-        },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "1000"
-    },
-    {
-        "id": "matero-03",
-        "titulo": "Matero",
+        "titulo": "Matero de lona",
         "imagen": "img/Materos/20240822_205348_0000.png",
         "imagenes_adicionales": [
             "img/Materos/20240822_205348_0001.png"
@@ -1586,22 +1638,21 @@
             "nombre": "Matero",
             "id": "materos"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "1000"
+        "descripcion": "Matero impermeable.",
+        "medidas": "34cm de alto por 24cm de largo.",
+        "precio": "22.000"
     },
     {
         "id": "maternal-01",
         "titulo": "Mochila Maternal con cuna",
         "imagen": "img/Maternal/Screenshot_20240515-231256~2.png",
         "imagenes_adicionales": [
-            "img/Maternal/Screenshot_20240515-231252~2.png",
             "img/Maternal/Screenshot_20240809-213941~2.png",
+            "img/Maternal/Screenshot_20240515-231252~2.png",
             "img/Maternal/IMG-20240808-WA0029.jpg",
             "img/Maternal/Screenshot_20240809-213938~2.png",
             "img/Maternal/61+Zw4wJLWL._AC_UL1500_.jpg",
             "img/Maternal/Screenshot_20240809-213935~2.png",
-            "img/Maternal/Screenshot_20240809-213948~2.png",
             "img/Maternal/Screenshot_20240515-231322~2.png",
             "img/Maternal/Screenshot_20240515-231304~2.png",
             "img/Maternal/Screenshot_20240515-231330~2.png",
@@ -1612,8 +1663,8 @@
             "nombre": "Maternales",
             "id": "maternal"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
+        "descripcion": "Mochila maternal impermeable. Incluye cuna, cable USB, monedero desmontable y bolsillos térmicos.",
+        "medidas": "43cm de alto por 31cm de largo.",
         "precio": "55.000"
     },
     {
@@ -1632,9 +1683,9 @@
             "nombre": "Maternales",
             "id": "maternal"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "37cm de alto por 25cm de largo",
+        "precio": "30.000"
     },
     {
         "id": "maternal-03",
@@ -1645,15 +1696,18 @@
             "img/Maternal/Screenshot_20240518-192948~2.png",
             "img/Maternal/Screenshot_20240518-192946~2.png",
             "img/Maternal/Screenshot_20240518-192933~2.png",
-            "img/Maternal/Screenshot_20240518-192935~2.png"
+            "img/Maternal/Screenshot_20240518-192935~2.png",
+            "img/maternal/screenshot_20240518-192926~2.png",
+            "img/maternal/screenshot_20240518-192943~2.png",
+            "img/maternal/screenshot_20240518-192940~2.png"
             ],
         "categoria": {
             "nombre": "Maternales",
             "id": "maternal"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "40cm de alto por 26cm de largo.",
+        "precio": "26.000"
     },
     {
         "id": "bolsos-01",
@@ -1672,9 +1726,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Impermeable, de amplia capacidad, incluye tira desmontable y compartimento para zapatillas.",
+        "medidas": "35cm de alto por 50cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-02",
@@ -1696,9 +1750,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Impermeable, trae tira desmontable, incluye compartimento para zapatillas.",
+        "medidas": "30cm de alto por 50cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-03",
@@ -1714,13 +1768,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Bolso deportivo impermeable.",
+        "medidas": "25cm de alto, 46cm de largo, 23cm de profundidad.",
+        "precio": "29.000"
     },
     {
         "id": "bolsos-04",
-        "titulo": "Bolso Deportivo",
+        "titulo": "Bolso Deportivo impermeable",
         "imagen": "img/Bolsos deportivos/Photoroom-20241007_112747.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Photoroom-20241007_112728.png",
@@ -1733,13 +1787,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Incluye tira larga y compartimento para zapatillas.",
+        "medidas": "52cm de alto por 32cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-05",
-        "titulo": "Bolso Deportivo",
+        "titulo": "Bolso de viaje Guomi",
         "imagen": "img/Bolsos deportivos/Screenshot_20241001-200237-780.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20241001-200248-262.png",
@@ -1750,13 +1804,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "27cm de alto, 46cm de largo, 24cm de profundidad",
+        "precio": "42.000"
     },
     {
         "id": "bolsos-06",
-        "titulo": "Bolso de mano",
+        "titulo": "Bolso de viaje",
         "imagen": "img/Bolsos deportivos/Screenshot_20241001-195203-306.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20241001-195143-777.png",
@@ -1767,13 +1821,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "45.000"
+        "descripcion": "",
+        "medidas": "28cm de alto por 48cm de largo.",
+        "precio": "42.000"
     },
     {
         "id": "bolsos-07",
-        "titulo": "Bolso Deportivo",
+        "titulo": "Bolso Deportivo Pink",
         "imagen": "img/Bolsos deportivos/Screenshot_20240922-194215-731.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20240922-194224-706.png",
@@ -1788,9 +1842,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "",
+        "medidas": "22cm de alto por 44cm de largo.",
+        "precio": "37.000"
     },
     {
         "id": "bolsos-08",
@@ -1807,9 +1861,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Es impermeable, incluye compartimento para zapatillas y tira larga desmontable.",
+        "medidas": "35cm de alto por 50cm de largo.",
+        "precio": "35.000"
     },
     {
         "id": "bolsos-09",
@@ -1827,9 +1881,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Es impermeable, incluye compartimento para zapatillas.",
+        "medidas": "22cm de alto, 48cm de largo, 19cm de profundidad.",
+        "precio": "37.000"
     },
     {
         "id": "bolsos-10",
@@ -1844,9 +1898,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Incluye tira larga desmontable.",
+        "medidas": "33cm de alto por 58cm de largo.",
+        "precio": "40.000"
     },
     {
         "id": "bolsos-11",
@@ -1883,7 +1937,7 @@
     },
     {
         "id": "bolsos-13",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Photoroom-20240818_010631~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Photoroom-20240818_010559~2.png",
@@ -1899,13 +1953,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Incluye tira larga desmontable y compartimento para zapatillas.",
+        "medidas": "50cm de alto por 32cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-14",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Photoroom-20240818_010930~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Photoroom-20240818_011041~2.png",
@@ -1919,13 +1973,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Incluye tira larga desmontable y compartimento para zapatillas.",
+        "medidas": "50cm de alto por 32cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-15",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo Pink",
         "imagen": "img/Bolsos deportivos/Photoroom-20240812_205905~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Photoroom-20240812_211108.png",
@@ -1941,28 +1995,32 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Es impermeable, incluye compartimento para zapatillas y tira larga desmontable",
+        "medidas": "30cm de alto por 48cm de largo.",
+        "precio": "39.000"
     },
     {
         "id": "bolsos-16",
-        "titulo": "Bolso Deportivo de River",
-        "imagen": "img/Bolsos deportivos/Screenshot_20240823-180240-208.png",
+        "titulo": "Bolso deportivo grande",
+        "imagen": "img/bolsos deportivos/Screenshot_20241212-163414-617.png",
         "imagenes_adicionales": [
-            
+            "img/bolsos deportivos/Screenshot_20241212-163444-756.png",
+            "img/bolsos deportivos/Screenshot_20241212-163457-425.png",
+            "img/bolsos deportivos/Screenshot_20241212-163432-335.png",
+            "img/bolsos deportivos/Screenshot_20241212-163519-728.png",
+            "img/bolsos deportivos/Screenshot_20241212-163509-588.png"
             ],
         "categoria": {
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "33*26*44cm",
+        "precio": "50.000"
     },
     {
         "id": "bolsos-17",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Screenshot_20240809-222150~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20240809-222153~2.png",
@@ -1978,13 +2036,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
+        "descripcion": "Bolso deportivo espacioso, puede llevarse como mochila.",
+        "medidas": "25cm de alto, 54cm de largo, 27cm de profundidad",
         "precio": "45.000"
     },
     {
         "id": "bolsos-18",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Screenshot_20240809-220435~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20240809-220438~2.png",
@@ -1996,35 +2054,31 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
+        "descripcion": "Es impermeable",
+        "medidas": "44cm de alto, 24cm de largo, 24cm de profundidad.",
         "precio": "35.000"
     },
     {
         "id": "bolsos-19",
-        "titulo": "Bolso Deportivo de River",
-        "imagen": "img/Bolsos deportivos/25_20240602_161856_0024.png",
+        "titulo": "Bolso de viaje",
+        "imagen": "img/bolsos deportivos/Screenshot_20241212-164051-835.png",
         "imagenes_adicionales": [
-            "img/Bolsos deportivos/24_20240602_161856_0023.png",
-            "img/Bolsos deportivos/23_20240602_161856_0022.png",
-            "img/Bolsos deportivos/22_20240602_161855_0021.png",
-            "img/Bolsos deportivos/30_20240602_161856_0029.png",
-            "img/Bolsos deportivos/27_20240602_161856_0026.png",
-            "img/Bolsos deportivos/29_20240602_161856_0028.png",
-            "img/Bolsos deportivos/28_20240602_161856_0027.png",
-            "img/Bolsos deportivos/26_20240602_161856_0025.png"
+            "img/bolsos deportivos/Screenshot_20241212-164040-450.png",
+            "img/bolsos deportivos/Screenshot_20241212-164059-492.png",
+            "img/bolsos deportivos/Screenshot_20241212-165031-939.png",
+            "img/bolsos deportivos/Screenshot_20241212-165052-783.png"
             ],
         "categoria": {
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "27cm de alto, 22cm de profundidad, 48cm de largo.",
+        "precio": "46.000"
     },
     {
         "id": "bolsos-20",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Screenshot_20240516-173716~2.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20240516-173708~2.png",
@@ -2040,13 +2094,13 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Incluye compartimento para zapatillas.",
+        "medidas": "28cm de alto, 46cm de largo, 25cm de profundidad.",
+        "precio": "36.000"
     },
     {
         "id": "bolsos-21",
-        "titulo": "Bolso Deportivo de River",
+        "titulo": "Bolso Deportivo Guomi",
         "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20241112-092943-361.png",
@@ -2058,13 +2112,80 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Bolso deportivo impermeable, no trae llavero.",
+        "medidas": "26cm de alto por 57cm de largo.",
+        "precio": "46.000"
+    },
+    {
+        "id": "bolsos-22",
+        "titulo": "Bolso de viaje",
+        "imagen": "img/bolsos deportivos/Screenshot_20241212-164301-727.png",
+        "imagenes_adicionales": [
+            "img/bolsos deportivos/Screenshot_20241212-164336-209.png",
+            "img/bolsos deportivos/Screenshot_20241212-164309-146.png",
+            "img/bolsos deportivos/Screenshot_20241212-164327-403.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "",
+        "medidas": "20cm de alto por 47cm de largo.",
+        "precio": "46.000"
+    },
+    {
+        "id": "bolsos-23",
+        "titulo": "Bolso deportivo",
+        "imagen": "img/bolsos deportivos/Screenshot_20241212-164733-251.png",
+        "imagenes_adicionales": [
+            "img/bolsos deportivos/Screenshot_20241212-164801-129.png",
+            "img/bolsos deportivos/Screenshot_20241212-164813-287.png",
+            "img/bolsos deportivos/Screenshot_20241212-164827-149.png",
+            "img/bolsos deportivos/Screenshot_20241212-164749-605.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "Bolso deportivo impermeable, incluye compartimento para zapatillas.",
+        "medidas": "26cm de alto por 43cm de largo.",
+        "precio": "36.000"
+    },
+    {
+        "id": "bolsos-24",
+        "titulo": "Bolso deportivo",
+        "imagen": "img/bolsos deportivos/Screenshot_20241212-164905-833.png",
+        "imagenes_adicionales": [
+            "img/bolsos deportivos/Screenshot_20241212-164925-006.png",
+            "img/bolsos deportivos/Screenshot_20241212-164933-947.png",
+            "img/bolsos deportivos/Screenshot_20241212-164915-567.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "Bolso deportivo impermeable, incluye compartimento para zapatillas.",
+        "medidas": "23cm de alto por 44cm de largo.",
+        "precio": "44.000"
+    },
+    {
+        "id": "bolsos-25",
+        "titulo": "Bolso deportivo",
+        "imagen": "img/mochilas/Screenshot_20241212-165443-533.png",
+        "imagenes_adicionales": [
+            "img/mochilas/Screenshot_20241212-165426-633.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "",
+        "medidas": "26cm de alto, 46cm de largo, 22cm de profundidad.",
+        "precio": "43.000"
     },
     {
         "id": "portaNot-01",
-        "titulo": "Porta Notebook",
+        "titulo": "No hay mas",
         "imagen": "img/Porta laptop/2_20240609_220307_0001.png",
         "imagenes_adicionales": [
             "img/Porta laptop/3_20240609_220307_0002.png",
@@ -2078,12 +2199,12 @@
             "id": "notebook"
         },
         "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
+        "medidas": "25 x 25",
         "precio": "35.000"
     },
     {
         "id": "escolar-01",
-        "titulo": "Mochila Escolar",
+        "titulo": "Mochila escolar para nena",
         "imagen": "img/Mochilas Escolares/Photoroom-20241128_181821.png",
         "imagenes_adicionales": [
             "img/Mochilas Escolares/Photoroom-20241128_181846.png",
@@ -2097,13 +2218,13 @@
             "nombre": "Mochila Escolar",
             "id": "escolar"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Mochilas escolares impermeable, varios personajes.",
+        "medidas": "31cm de alto por 26cm de largo.",
+        "precio": "25.000"
     },
     {
         "id": "escolar-02",
-        "titulo": "Mochila Escolar",
+        "titulo": "Mochila escolar para varón",
         "imagen": "img/Mochilas Escolares/Photoroom-20241128_185708.png",
         "imagenes_adicionales": [
             "img/Mochilas Escolares/Photoroom-20241128_185737.png",
@@ -2117,13 +2238,13 @@
             "nombre": "Mochila Escolar",
             "id": "escolar"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Mochila escolar para varón, varios personajes.",
+        "medidas": "31cm de alto por 26cm de largo.",
+        "precio": "25.000"
     },
     {
         "id": "escolar-03",
-        "titulo": "Mochila Escolar",
+        "titulo": "Mochila escolar para nena",
         "imagen": "img/Mochilas Escolares/Photoroom-20241128_191620.png",
         "imagenes_adicionales": [
             "img/Mochilas Escolares/Photoroom-20241128_191641.png",
@@ -2136,114 +2257,106 @@
             "nombre": "Mochila Escolar",
             "id": "escolar"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Mochila escolar para nena, varios personajes.",
+        "medidas": "34cm de alto por 29cm de largo.",
+        "precio": "26.000"
     },
     {
         "id": "escolar-04",
         "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagen": "img/mochilas/Screenshot_20241212-165753-273.png",
         "imagenes_adicionales": [
-            
+            "img/mochilas/Screenshot_20241212-165733-353.png",
+            "img/mochilas/Screenshot_20241212-165742-270.png",
+            "img/mochilas/Screenshot_20241212-165808-301.png"
             ],
         "categoria": {
             "nombre": "Mochila Escolar",
             "id": "escolar"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "No incluye llavero.",
+        "medidas": "45cm de alto por 36cm de largo.",
+        "precio": "38.000"
     },
     {
         "id": "escolar-05",
         "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagen": "img/mochilas/Screenshot_20241212-165527-450.png",
         "imagenes_adicionales": [
-            
+            "img/mochilas/Screenshot_20241212-165537-010.png",
+            "img/mochilas/Screenshot_20241212-165549-770.png",
+            "img/mochilas/Screenshot_20241212-165602-409.png",
+            "img/mochilas/Screenshot_20241212-165611-851.png",
+            "img/mochilas/Screenshot_20241212-165626-627.png"
             ],
         "categoria": {
             "nombre": "Mochila Escolar",
             "id": "escolar"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Mochila escolar, no incluye llavero.",
+        "medidas": "38cm de alto por 28cm de largo.",
+        "precio": "27.000"
     },
     {
-        "id": "escolar-06",
-        "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "id": "verano-01",
+        "titulo": "Bolso playero",
+        "imagen": "img/verano/20240928_110813_0004.png",
         "imagenes_adicionales": [
-            
+            "img/verano/20240928_110813_0005.png",
+            "img/verano/20240928_110813_0003.png",
+            "img/verano/20240928_110813_0001.png",
+            "img/verano/20240928_110814_0008.png",
+            "img/verano/20240928_110813_0007.png",
+            "img/verano/20240928_110813_0006.png",
+            "img/verano/20240928_110814_0009.png"
             ],
         "categoria": {
-            "nombre": "Mochila Escolar",
-            "id": "escolar"
+            "nombre": "Bolso playero",
+            "id": "verano"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Playero de lona impermeable.",
+        "medidas": "35cm de alto por 40cm de largo.",
+        "precio": "26.000"
     },
     {
-        "id": "escolar-07",
-        "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "id": "verano-02",
+        "titulo": "Bolso playero",
+        "imagen": "img/verano/photoroom-20240819_194126~2.png",
         "imagenes_adicionales": [
-            
+            "img/verano/photoroom-20240819_192316~2.png",
+            "img/verano/20240928_110813_0003.png",
+            "img/verano/20240928_110813_0001.png",
+            "img/verano/photoroom-20240819_192039~2.png",
+            "img/verano/photoroom-20240819_192218~2.png",
+            "img/verano/photoroom-20240819_192113~2.png",
+            "img/verano/photoroom-20240819_192248~2.png"
             ],
         "categoria": {
-            "nombre": "Mochila Escolar",
-            "id": "escolar"
+            "nombre": "Bolso playero",
+            "id": "verano"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Playero de lona impermeable.",
+        "medidas": "36cm de alto por 52cm de largo.",
+        "precio": "22.000"
     },
     {
-        "id": "escolar-08",
-        "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "id": "verano-03",
+        "titulo": "Bolso playero grande",
+        "imagen": "img/verano/photoroom-20240819_194021~2.png",
         "imagenes_adicionales": [
-            
+            "img/verano/photoroom-20240819_194149~2.png",
+            "img/verano/photoroom-20240819_194218~2.png",
+            "img/verano/photoroom-20240819_194244~2.png",
+            "img/verano/photoroom-20240819_194056~2.png",
+            "img/verano/photoroom-20240819_194126~2.png"
             ],
         "categoria": {
-            "nombre": "Mochila Escolar",
-            "id": "escolar"
+            "nombre": "Bolso playero",
+            "id": "verano"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
-    },
-    {
-        "id": "escolar-09",
-        "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
-        "imagenes_adicionales": [
-            
-            ],
-        "categoria": {
-            "nombre": "Mochila Escolar",
-            "id": "escolar"
-        },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
-    },
-    {
-        "id": "escolar-10",
-        "titulo": "Mochila Escolar",
-        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
-        "imagenes_adicionales": [
-            
-            ],
-        "categoria": {
-            "nombre": "Mochila Escolar",
-            "id": "escolar"
-        },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "Playero de lona impermeable.",
+        "medidas": "39cm de alto por 55cm de largo.",
+        "precio": "22.000"
     }
     
 ]

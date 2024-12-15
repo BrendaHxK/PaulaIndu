@@ -15,6 +15,9 @@
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
+html, body {
+    height: 100%;
+}
 
 h1,
 h2,
@@ -224,6 +227,7 @@ footer {
     position: relative;
     bottom: 0;
     left: 0;
+    margin-top: auto;
 }
 footer .social-links {
     display: flex;
@@ -255,6 +259,7 @@ main {
     margin-left: 0;
     border-radius: 2rem;
     padding: 3rem;
+    flex: 1;
 }
 
 .titulo-principal {
@@ -347,13 +352,16 @@ main {
 
         #detallesHeader {
         display: flex;
-        justify-content: center;
+        flex-direction: column;
         align-items: center;
-        padding: 1rem 2rem;
+        text-align: center;
+        gap: 0.5rem;
+        padding: 1rem;
         width: 100%;
         background-color: #af9c57;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        position: relative;
+        box-sizing: border-box;
+        width: 100%;    
     }
 
         #detallesHeader h1 {
@@ -364,8 +372,9 @@ main {
             background-color: #f0f0f0;
             border-radius: 5px;
             transition: background-color 0.3s ease;
-            text-align: center;
-    }
+            margin: 0;
+
+        }
 
         #menu-principal {
             position: absolute;
@@ -469,26 +478,110 @@ main {
     display: none;
 }
 
-/*** MEDIA QUERIES ***/
-
+/*MEDIA QUERIES*/
 @media screen and (max-width: 850px) {
     .contenedor-productos {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 1rem;
     }
 }
 
-@media screen and (max-width: 675px) {
-    .contenedor-productos {
-        grid-template-columns: 1fr 1fr;
-    }
-}
-
-/* Mejoras para dispositivos móviles */
 @media screen and (max-width: 600px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        /* Ajusta la cantidad de columnas */
+        gap: 1rem;
+    }
+.contenedor-producto-detalle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.producto-imagen {
+    object-fit: contain;
+    /* Ajusta la imagen sin recortarla */
+    max-height: 200px;
+    /* Limita la altura máxima de la imagen */
+    width: 100%;
+    /* Asegura que ocupe todo el ancho disponible */
+    }
+
+.producto-imagen-principal-contenedor {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.producto-imagen-principal {
+    max-width: 90%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+.imagenes-adicionales-contenedor {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 0.5rem;
+    justify-content: center;
+    width: 100%;
+}
+
+.producto-imagen-adicional {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    /* Asegura que las imágenes adicionales se recorten correctamente */
+    cursor: pointer;
+    border-radius: 8px;
+    transition: opacity 0.3s ease;
+}
+
+.producto-imagen-adicional:hover {
+    opacity: 0.7;
+    /* Efecto hover */
+}
 
     body.menu-abierto .filtro-precio {
-    display: none;
+        display: none;
+    }
+
+#detallesHeader {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    #detallesHeader h1 {
+        display: none;
+        font-size: 1.2rem; /* Reduce el tamaño del texto */
+        margin: 0;
+        flex: 1;
+        /* Permite que el título ocupe todo el espacio disponible */
+        text-align: left;
+        white-space: nowrap;
+        /* Evita que el texto del título se rompa en varias líneas */
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+#detalle-producto {
+        max-width: 80%; /* Caja más pequeña en pantallas pequeñas */
+        padding: 0.5rem; /* Menor espaciado interior */
+    }    
+
+
+#detallesHeader a#menu-principal {
+    margin-top: -1rem;
+        /* Subir el enlace */
+        font-size: 0.8rem;
 }
+
+
     .wrapper {
         min-height: 100vh;
         display: flex;
@@ -500,13 +593,12 @@ main {
         z-index: 9;
         background-color: var(--clr-main);
         left: 0;
-        box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .75);
+        box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.75);
         transform: translateX(-100%);
         opacity: 0;
         visibility: hidden;
-        transition: .2s;
+        transition: transform 0.3s ease, opacity 0.3s ease;
         width: 70%;
-        /* Para que ocupe solo una parte del espacio en dispositivos móviles */
     }
 
     .aside-visible {
@@ -516,7 +608,7 @@ main {
     }
 
     .logo {
-        font-size: 1rem;
+        font-size: clamp(1rem, 2vw, 1.5rem);
     }
 
     .menu {
@@ -530,17 +622,11 @@ main {
         padding: 0.8rem;
         font-size: 1rem;
     }
-    
 
     main {
         margin: 1rem;
         margin-top: 0;
         padding: 2rem;
-    }
-
-    .contenedor-productos {
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
     }
 
     .header-mobile {
@@ -549,10 +635,7 @@ main {
         justify-content: space-between;
         align-items: center;
     }
-
-    .header-mobile .logo {
-        color: var(--clr-gray);
-    }
+    
 
     .open-menu,
     .close-menu {
@@ -560,7 +643,7 @@ main {
         color: var(--clr-white);
         border: none;
         font-size: 2rem;
-        cursor: block;
+        cursor: pointer;
     }
 
     .close-menu {
@@ -568,83 +651,91 @@ main {
     }
 
 
-    .boton-menu {
-        font-size: 1rem;
-        /* Ajuste de tamaño de letra */
-    }
-
-    /* Mejoras para los detalles del producto */
-    .contenedor-producto-detalle {
-        display: block;
-        /* Apilamiento vertical en pantallas pequeñas */
-        padding: 1rem;
-    }
-
-    .producto-imagen-principal {
+    .descripcion-producto {
         width: 100%;
-        max-width: 400px;
-        /* Limita el tamaño de la imagen principal */
-    }
-
-    .imagenes-adicionales-contenedor {
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        gap: 1rem;
+        /* Ocupa todo el ancho en pantallas pequeñas */
         margin-top: 1rem;
+        text-align: center;
     }
 
-    .producto-imagen-adicional {
-        width: 60px;
-        /* Más pequeño en pantallas móviles */
-        height: 60px;
+    .descripcion-producto h2,
+    .descripcion-producto p,
+    .descripcion-producto strong {
+        font-size: 1.2rem;
+        /* Ajusta el tamaño del texto */
     }
 
-    /* Para mejorar la experiencia de carrito */
     .carrito-acciones-vaciar,
     .carrito-acciones-comprar {
         font-size: 0.85rem;
-        /* Botones de carrito más pequeños */
         padding: 1rem;
     }
 }
 
 @media screen and (max-width: 400px) {
     .contenedor-productos {
+        display: grid;
         grid-template-columns: 1fr;
-        /* Una sola columna en pantallas muy pequeñas */
+        /* Una sola columna */
+        gap: 1rem;
+        justify-items: center;
+        /* Centra las imágenes */
     }
 
+    .producto-imagen {
+        max-height: 180px;
+        /* Reducir la altura de la imagen en pantallas más pequeñas */
+        object-fit: contain;
+        /* Mantiene las proporciones sin recortar */
+    }
+
+.imagenes-adicionales-contenedor {
+    grid-template-columns: repeat(3, 1fr);
+    /* Máximo de 3 imágenes por fila */
+}
+
+.producto-imagen-adicional {
+    width: 45px;
+    height: 45px;
+}
+
     .logo {
-        font-size: 1rem;
+        font-size: clamp(0.8rem, 3vw, 1rem);
     }
 
     .menu {
-        gap: 1rem;
+        gap: 0.5rem;
     }
 
     .boton-menu {
-        font-size: 1.1rem;
+        font-size: clamp(1rem, 2.5vw, 1.2rem);
     }
 
     .carrito-producto {
         flex-direction: column;
-        /* Apilamiento vertical en carrito */
+        align-items: stretch;
     }
 
     .carrito-acciones-vaciar,
     .carrito-acciones-comprar {
         width: 100%;
-        /* Botones de carrito ocupan todo el ancho */
-    }
-
-    .producto-imagen-adicional {
-        width: 50px;
-        height: 50px;
+        padding: 0.8rem;
     }
 
     .producto-imagen-principal {
         max-width: 100%;
-        /* Ajusta la imagen principal */
+        /* Asegura que la imagen ocupe todo el ancho */
+        max-height: 300px;
+        /* Limita la altura máxima para no ocupar demasiado espacio */
+        object-fit: contain;
+        /* Ajusta la imagen sin recortarla */
+    }
+
+
+    .descripcion-producto h2,
+    .descripcion-producto p,
+    .descripcion-producto strong {
+        font-size: 1rem;
+        /* Reduce el tamaño de los textos en pantallas muy pequeñas */
     }
 }
