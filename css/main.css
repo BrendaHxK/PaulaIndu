@@ -368,7 +368,7 @@ main {
     padding: 1rem;
     width: 100%;
     background-color: #af9c57;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     box-sizing: border-box;
     width: 100%;
 }
@@ -508,8 +508,7 @@ main {
         /* Asegura que esté por encima de otros elementos */
         background-color: var(--clr-main);
         /* Fondo del header */
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-        /* Sombra ligera */
+        
     }
 
 }

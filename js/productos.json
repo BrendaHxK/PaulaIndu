@@ -2298,6 +2298,109 @@
         "precio": "27.000"
     },
     {
+        "id": "escolar-06",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/mochilas/Screenshot_20241216-152143-046.png",
+        "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241216-152153-905.png"
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "",
+        "medidas": "38cm de alto por 33xm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-07",
+        "titulo": "Mochila de Stitch",
+        "imagen": "img/mochilas/Screenshot_20241216-151045-098.png",
+        "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241216-151057-793.png"
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto, 23cm de largo, 17cm de profundidad.",
+        "precio": "34.000"
+    },
+{
+    "id": "escolar-08",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas/Screenshot_20241216-151115-556.png",
+    "imagenes_adicionales": [
+    "img/mochilas/Screenshot_20241216-151125-631.png",
+    "img/mochilas/Screenshot_20241216-151106-857.png",
+    "img/mochilas/Screenshot_20241216-151137-078.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "",
+    "medidas": "31cm de alto, 23cm de largo, 17cm de profundidad.",
+    "precio": "34.000"
+},  
+{
+    "id": "escolar-09",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas/Screenshot_20241216-151622-916.png",
+    "imagenes_adicionales": [
+    "img/mochilas/Screenshot_20241216-151635-115.png",
+    "img/mochilas/Screenshot_20241216-151644-029.png",
+    "img/mochilas/Screenshot_20241216-151652-177.png",
+    "img/mochilas/Screenshot_20241216-151700-635.png",
+    "img/mochilas/Screenshot_20241216-151717-777.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Incluye el llavero.",
+    "medidas": "29cm de alto, 23cm de largo, 10cm de profundidad.",
+    "precio": "29.000"
+},
+{
+    "id": "escolar-10",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas/Screenshot_20241216-151810-669.png",
+    "imagenes_adicionales": [
+    "img/mochilas/Screenshot_20241216-151819-050.png",
+    "img/mochilas/Screenshot_20241216-151827-346.png",
+    "img/mochilas/Screenshot_20241216-151835-745.png",
+    "img/mochilas/Screenshot_20241216-151846-448.png",
+    "img/mochilas/Screenshot_20241216-151858-311.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "",
+    "medidas": "28cm de alto, 20cm de largo, 7cm de profundidad.",
+    "precio": "29.000"
+},
+{
+    "id": "escolar-11",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas/Screenshot_20241216-151951-263.png",
+    "imagenes_adicionales": [
+    "img/mochilas/Screenshot_20241216-173507-216.png",
+    "img/mochilas/Screenshot_20241216-173526-837.png",
+    "img/mochilas/Screenshot_20241216-173553-487.png",
+    "img/mochilas/Screenshot_20241216-173607-968.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "",
+    "medidas": "25cm de alto por 22cm de largo",
+    "precio": "27.000"
+},  
+    {
         "id": "verano-01",
         "titulo": "Bolso playero",
         "imagen": "img/verano/20240928_110813_0004.png",
