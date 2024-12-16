@@ -1914,9 +1914,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "",
+        "precio": "30.000"
     },
     {
         "id": "bolsos-12",
@@ -1931,9 +1931,9 @@
             "nombre": "Bolsos Deportivos",
             "id": "bolsosdep"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "35.000"
+        "descripcion": "",
+        "medidas": "",
+        "precio": "30.000"
     },
     {
         "id": "bolsos-13",
