@@ -334,7 +334,7 @@
     },
     {
         "id": "mochila-19",
-        "titulo": "Mochila",
+        "titulo": "SIN STOCK",
         "imagen": "./img/mochilas/Photoroom-20240629_131355.png",
         "imagenes_adicionales": [
             "img/Mochilas/Photoroom-20240629_131424.png",
@@ -346,9 +346,9 @@
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "",
+        "medidas": "",
+        "precio": "25.000"
     },
     {
         "id": "mochila-20",
@@ -1231,9 +1231,9 @@
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "dgogdohgodhg",
-        "medidas": "25 x 25",
-        "precio": "1000"
+        "descripcion": "",
+        "medidas": "",
+        "precio": "24.000"
     },
     {
         "id": "cyb-22",
@@ -1291,7 +1291,7 @@
         },
         "descripcion": "dgogdohgodhg",
         "tamano": "25 x 25",
-        "precio": "1000"
+        "precio": "25.000"
     },
     {
         "id": "cyb-25",
