@@ -482,9 +482,9 @@
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
-        "precio": "38.000"
+        "descripcion": "Es impermeable.",
+        "medidas": "36cm de alto por 30cm de ancho",
+        "precio": "35.000"
     },
     {
         "id": "mochila-27",
@@ -837,7 +837,7 @@
     },
     {
         "id": "cyb-01",
-        "titulo": "Cartera / morral de cuero PU ",
+        "titulo": "SIN STOCK",
         "imagen": "./img/cyb/20241011_123759_0006.png",
         "imagenes_adicionales": [
             "img/cyb/20241011_123759_0007.png",
@@ -853,8 +853,8 @@
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "dgogdohgodhg",
-        "medidas": "25 x 25",
+        "descripcion": "",
+        "medidas": "",
         "precio": "26.000"
     },
     {
@@ -1289,8 +1289,8 @@
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "dgogdohgodhg",
-        "tamano": "25 x 25",
+        "descripcion": "",
+        "medidas": "",
         "precio": "25.000"
     },
     {
@@ -2198,8 +2198,8 @@
             "nombre": "Porta Notebooks",
             "id": "notebook"
         },
-        "descripcion": "dgogdohgodhg",
-        "medidas": "25 x 25",
+        "descripcion": "",
+        "medidas": "",
         "precio": "35.000"
     },
     {
