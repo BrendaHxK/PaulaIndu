@@ -579,7 +579,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila de cuero PU",
-        "tamano": "29cm de alto por 23cm de largo.",
+        "medidas": "29cm de alto por 23cm de largo.",
         "precio": "42.000"
     },
     {
@@ -654,7 +654,7 @@
             "id": "mochilas"
         },
         "descripcion": "",
-        "tamano": "46cm de alto por 31cm de largo.",
+        "medidas": "46cm de alto por 31cm de largo.",
         "precio": "38.000"
     },
     {
@@ -1610,6 +1610,64 @@
         "medidas": "15cm de alto por 22cm de largo.",
         "precio": "35.000"
     },
+{
+        "id": "r-04",
+        "titulo": "Riñonera extra grande",
+        "imagen": "img/riñoneras y pecheras/Photoroom-20241212_114019.png",
+        "imagenes_adicionales": [
+            "img/riñoneras y pecheras/Photoroom-20241212_114138.png",
+            "img/riñoneras y pecheras/Photoroom-20241212_114043.png",
+            "img/riñoneras y pecheras/Photoroom-20241212_114155.png",
+            "img/riñoneras y pecheras/Photoroom-20241212_114114.png"
+            ],
+        "categoria": {
+            "nombre": "Riñoneras",
+            "id": "rinoneras"
+        },
+        "descripcion": "Riñonera extra grande, impermeable, excelente calidad.",
+        "medidas": "21cm de alto por 33cm de ancho.",
+        "precio": "28.000"
+    },
+{
+    "id": "r-05",
+    "titulo": "Riñonera de cuero PU",
+    "imagen": "img/riñoneras y pecheras/Photoroom-20241212_115415.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Photoroom-20241212_115431.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115327.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115400.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115343.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115508.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115508.png"
+        ],
+    "categoria": {
+        "nombre": "Riñoneras",
+        "id": "rinoneras"
+    },
+    "descripcion": "Viene con tira sublimada y accesorio desmontable.",
+    "medidas": "15cm de alto por 20cm de largo.",
+    "precio": "29.000"
+},
+{
+    "id": "r-06",
+    "titulo": "Riñoneras",
+    "imagen": "img/riñoneras y pecheras/Photoroom-20241212_115010.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Photoroom-20241212_115026.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115043.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114954.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114938.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114904.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114920.png"
+        ],
+    "categoria": {
+        "nombre": "Riñoneras",
+        "id": "rinoneras"
+    },
+    "descripcion": "",
+    "medidas": "16cm de alto por 34cm de largo.",
+    "precio": "19.000"
+},        
     {
         "id": "matero-01",
         "titulo": "Matero",
