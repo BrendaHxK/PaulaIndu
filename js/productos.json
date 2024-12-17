@@ -1637,7 +1637,7 @@
         "img/riñoneras y pecheras/Photoroom-20241212_115327.png",
         "img/riñoneras y pecheras/Photoroom-20241212_115400.png",
         "img/riñoneras y pecheras/Photoroom-20241212_115343.png",
-        "img/riñoneras y pecheras/Photoroom-20241212_115508.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_115449.png",
         "img/riñoneras y pecheras/Photoroom-20241212_115508.png"
         ],
     "categoria": {
@@ -2457,7 +2457,150 @@
     "descripcion": "",
     "medidas": "25cm de alto por 22cm de largo",
     "precio": "27.000"
-},  
+},
+{
+    "id": "set-01",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/mochilas/screenshot_20241112-095450-010.png",
+    "imagenes_adicionales": [
+        "img/mochilas/screenshot_20241112-095438-036.png",
+        "img/mochilas/screenshot_20241112-095420-509.png",
+        "img/mochilas/screenshot_20241112-095406-948.png",
+        "img/mochilas/screenshot_20241112-095350-496.png",
+        "img/mochilas/Captura de pantalla (237).png",
+        "img/mochilas/Captura de pantalla (238).png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 5 piezas, impermeable. No incluye el llavero.",
+    "medidas": "Mochila: 40cm de alto por 31cm de largo",
+    "precio": "44.000"
+},
+{
+    "id": "set-02",
+    "titulo": "Set premium",
+    "imagen": "img/sets/Screenshot_20241217-182700-138.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-183023-146.png",
+        "img/sets/Screenshot_20241217-183041-015.png",
+        "img/sets/Screenshot_20241217-182721-867.png",
+        "img/sets/Screenshot_20241217-182710-473.png",
+        "img/sets/Screenshot_20241217-183137-342.png",
+        "img/sets/Screenshot_20241217-183151-119.png",
+        "img/sets/Screenshot_20241217-183117-591.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de mochila y bolso, calidad premium. No incluye llavero y pin.",
+    "medidas": "Mochila: 42cm de alto, 31 cm de largo, 12cm de profundidad.",
+    "precio": "48.000"
+},
+{
+    "id": "set-03",
+    "titulo": "Set de mochila",
+    "imagen": "img/sets/Screenshot_20241217-183254-663.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-183317-206.png",
+        "img/sets/Screenshot_20241217-183352-443.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 3 piezas: mochila, morral y billetera.",
+    "medidas": "Mochila: 41cm de alto, 30 cm de largo.",
+    "precio": "38.000"
+},
+{
+    "id": "set-04",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/Screenshot_20241217-183418-488.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-183429-184.png",
+        "img/sets/Screenshot_20241217-183439-049.png",
+        "img/sets/Screenshot_20241217-183614-783.png",
+        "img/sets/Screenshot_20241217-183732-035.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "",
+    "medidas": "Mochila: 39cm de alto por 26cm de largo.",
+    "precio": "43.000"
+},
+{
+    "id": "set-05",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/Screenshot_20241217-183817-938.png",
+    "imagenes_adicionales": [
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "",
+    "medidas": "Mochila: 45cm de alto por 30cm de largo.",
+    "precio": "45.000"
+},
+{
+    "id": "set-06",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/Screenshot_20241217-184244-987.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-184254-222.png",
+        "img/sets/Screenshot_20241217-184302-823.png",
+        "img/sets/Screenshot_20241217-184311-287.png",
+        "img/sets/Screenshot_20241217-184320-469.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "",
+    "medidas": "Mochila: 44cm de alto por 30cm de largo.",
+    "precio": "45.000"
+},
+{
+    "id": "set-07",
+    "titulo": "Set de 3 piezas",
+    "imagen": "img/sets/Screenshot_20241217-184658-480.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-184610-425.png",
+        "img/sets/Screenshot_20241217-184813-039.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de tres piezas: mochila, billetera y pechera. Disponible solo en color negro.",
+    "medidas": "Ver ultima foto",
+    "precio": "40.000"
+},
+{
+    "id": "set-08",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/Screenshot_20241217-184419-261.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241217-184407-307.png",
+        "img/sets/Screenshot_20241217-184358-104.png",
+        "img/sets/Screenshot_20241217-184454-276.png",
+        "img/sets/Screenshot_20241217-184427-611.png",
+        "img/sets/Screenshot_20241217-184435-265.png",
+        "img/sets/Screenshot_20241217-184445-350.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "",
+    "medidas": "Mochila: 43cm de alto por 31cm de largo.",
+    "precio": "42.000"
+},   
     {
         "id": "verano-01",
         "titulo": "Bolso playero",
