@@ -12,7 +12,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila de cuero ecológico. Entra una carpeta A4.",
-        "medidas": "36cm de alto x 33cm de ancho",
+        "medidas": "36cm de alto por 33cm de largo",
         "precio": "26.000"
     },
     {
@@ -37,7 +37,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila Pink + Riñonera",
-        "medidas": "41 cm de alto por 31cm de ancho",
+        "medidas": "41 cm de alto por 31cm de largo",
         "precio": "42.000"
     },
     {
@@ -57,7 +57,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila Impermeable grande, excelente calidad",
-        "medidas": "47cm de alto x 34cm de ancho",
+        "medidas": "47cm de alto por 34cm de largo",
         "precio": "38.000"
     },
     {
@@ -77,7 +77,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila de tela impermeable, grande, varios compartimentos.",
-        "medidas": "47cm de alto por 34cm de ancho",
+        "medidas": "47cm de alto por 34cm de largo",
         "precio": "38.000"
     },
     {
@@ -97,7 +97,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila impermeable. 45L de capacidad. Cuenta con compartimento para notebook.",
-        "medidas": "45cm de alto, 31cm de ancho, 15cm de profundidad",
+        "medidas": "45cm de alto, 31cm de largo, 15cm de profundidad",
         "precio": "40.000"
     },
     {
@@ -114,7 +114,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila de lona, con compartimento para notebook incluído.",
-        "medidas": "45cm de alto, 30cm de ancho y 13cm de profundidad",
+        "medidas": "45cm de alto, 30cm de largo y 13cm de profundidad",
         "precio": "39.000"
     },
     {
@@ -329,7 +329,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila ideal para notebook.",
-        "medidas": "40cm de alto, 28cm de ancho y 10cm de profundidad.",
+        "medidas": "40cm de alto, 28cm de largo y 10cm de profundidad.",
         "precio": "33.000"
     },
     {
@@ -367,7 +367,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila impermeable, reforzada.",
-        "medidas": "47cm de alto x 34cm de ancho.",
+        "medidas": "47cm de alto por 34cm de largo.",
         "precio": "38.000"
     },
     {
@@ -483,7 +483,7 @@
             "id": "mochilas"
         },
         "descripcion": "Es impermeable.",
-        "medidas": "36cm de alto por 30cm de ancho",
+        "medidas": "36cm de alto por 30cm de largo",
         "precio": "35.000"
     },
     {
@@ -522,7 +522,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochilas universitaria, reforzada e impermeable.",
-        "medidas": "40cm de alto por 30cm de ancho",
+        "medidas": "40cm de alto por 30cm de largo",
         "precio": "44.000"
     },
     {
@@ -541,7 +541,7 @@
             "id": "mochilas"
         },
         "descripcion": "Mochila reforzada, tela de avión, cuenta con varios compartimentos.",
-        "medidas": "40cm de alto por 30cm de ancho.",
+        "medidas": "40cm de alto por 30cm de largo.",
         "precio": "49.000"
     },
     {
@@ -1331,7 +1331,7 @@
             "id": "pecheras"
         },
         "descripcion": "Impermeable.",
-        "medidas": "31cm de alto por 21cm de ancho.",
+        "medidas": "31cm de alto por 21cm de largo.",
         "precio": "24.000"
     },
     {
@@ -1625,7 +1625,7 @@
             "id": "rinoneras"
         },
         "descripcion": "Riñonera extra grande, impermeable, excelente calidad.",
-        "medidas": "21cm de alto por 33cm de ancho.",
+        "medidas": "21cm de alto por 33cm de largo.",
         "precio": "28.000"
     },
 {
@@ -1767,6 +1767,279 @@
         "medidas": "40cm de alto por 26cm de largo.",
         "precio": "26.000"
     },
+{
+    "id": "maternal-04",
+    "titulo": "Mochila Maternal",
+    "imagen": "img/maternal/Screenshot_20241218-160426-512.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-160414-560.png",
+        "img/maternal/Screenshot_20241218-160435-819.png",
+        "img/maternal/Screenshot_20241218-160404-778.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "40cm de alto por 25cm de largo.",
+    "precio": "33.000"
+},
+{
+    "id": "maternal-05",
+    "titulo": "Mochila Maternal",
+    "imagen": "img/maternal/Screenshot_20241218-160540-800.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-160648-499.png",
+        "img/maternal/Screenshot_20241218-161246-468.png",
+        "img/maternal/Screenshot_20241218-160549-478.png",
+        "img/maternal/Screenshot_20241218-160658-576.png",
+        "img/maternal/Screenshot_20241218-160602-553.png",
+        "img/maternal/Screenshot_20241218-160630-927.png",
+        "img/maternal/Screenshot_20241218-160617-973.png",
+        "img/maternal/Screenshot_20241218-160727-374.png",
+        "img/maternal/Screenshot_20241218-160717-899.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "37cm de alto por 31cm de largo y 13cm de profundidad.",
+    "precio": "48.000"
+},
+{
+    "id": "maternal-06",
+    "titulo": "Mochila maternal sin cuna",
+    "imagen": "img/maternal/Screenshot_20241218-161133-945.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-161113-764.png",
+        "img/maternal/Screenshot_20241218-161123-681.png",
+        "img/maternal/Screenshot_20241218-161203-626.png",
+        "img/maternal/Screenshot_20241218-161147-864.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Incluye compartimento para cable USB.",
+    "medidas": "39cm de alto, 25cm de largo, 20cm de profundidad.",
+    "precio": "42.000"
+},
+{
+    "id": "maternal-07",
+    "titulo": "Cambiadores para bebé",
+    "imagen": "img/maternal/Screenshot_20241218-160805-785.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-160754-966.png",
+        "img/maternal/Screenshot_20241218-160825-767.png",
+        "img/maternal/Screenshot_20241218-160835-552.png",
+        "img/maternal/Screenshot_20241218-160854-674.png",
+        "img/maternal/Screenshot_20241218-161012-740.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "Ver ultima foto",
+    "precio": "22.000"
+},
+{
+    "id": "maternal-08",
+    "titulo": "Mochila Maternal",
+    "imagen": "img/maternal/Screenshot_20241218-161418-847.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-161315-201.png",
+        "img/maternal/Screenshot_20241218-161403-465.png",
+        "img/maternal/Screenshot_20241218-161432-002.png",
+        "img/maternal/Screenshot_20241218-161329-601.png",
+        "img/maternal/Screenshot_20241218-161447-278.png",
+        "img/maternal/Screenshot_20241218-161340-317.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "Ver ultima foto",
+    "precio": "42.000"
+},  
+{
+    "id": "maternal-09",
+    "titulo": "Mochila Maternal",
+    "imagen": "img/maternal/Screenshot_20241218-161604-345.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-161617-500.png",
+        "img/maternal/Screenshot_20241218-161629-066.png",
+        "img/maternal/Screenshot_20241218-161540-837.png",
+        "img/maternal/Screenshot_20241218-161528-969.png",
+        "img/maternal/Screenshot_20241218-161552-401.png",
+        "img/maternal/Screenshot_20241218-161706-448.png",
+        "img/maternal/Screenshot_20241218-161655-343.png",
+        "img/maternal/Screenshot_20241218-161641-406.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Trae compartimento para cable USB.",
+    "medidas": "40cm de alto por 35cm de largo",
+    "precio": "37.000"
+},
+{
+    "id": "maternal-10",
+    "titulo": "Mochila + cambiador",
+    "imagen": "img/maternal/Screenshot_20241218-161847-157.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-161839-188.png",
+        "img/maternal/Screenshot_20241218-161856-129.png",
+        "img/maternal/Screenshot_20241218-161905-304.png",
+        "img/maternal/Screenshot_20241218-161927-357.png",
+        "img/maternal/Screenshot_20241218-161914-534.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Incluye cambiador",
+    "medidas": "Ver ultima foto.",
+    "precio": "50.000"
+},
+{
+    "id": "maternal-11",
+    "titulo": "Mochila + cambiador",
+    "imagen": "img/maternal/Screenshot_20241218-162034-901.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-161953-663.png",
+        "img/maternal/Screenshot_20241218-162013-147.png",
+        "img/maternal/Screenshot_20241218-162025-731.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Incluye cambiador",
+    "medidas": "Ver ultima foto.",
+    "precio": "49.000"
+},
+{
+    "id": "maternal-12",
+    "titulo": "Mochila maternal",
+    "imagen": "img/maternal/Screenshot_20241218-162211-323.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162151-512.png",
+        "img/maternal/Screenshot_20241218-162142-304.png",
+        "img/maternal/Screenshot_20241218-162202-506.png",
+        "img/maternal/Screenshot_20241218-162133-438.png",
+        "img/maternal/Screenshot_20241218-162220-507.png",
+        "img/maternal/Screenshot_20241218-162111-316.png",
+        "img/maternal/Screenshot_20241218-162103-430.png",
+        "img/maternal/Screenshot_20241218-162119-907.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Es impermeable.",
+    "medidas": "Ver ultima foto.",
+    "precio": "44.000"
+},
+{
+    "id": "maternal-13",
+    "titulo": "Mochila maternal",
+    "imagen": "img/maternal/Screenshot_20241218-162421-836.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162412-199.png",
+        "img/maternal/Screenshot_20241218-162348-230.png",
+        "img/maternal/Screenshot_20241218-162331-012.png",
+        "img/maternal/Screenshot_20241218-162256-687.png",
+        "img/maternal/Screenshot_20241218-162306-341.png",
+        "img/maternal/Screenshot_20241218-162320-241.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "Es impermeable.",
+    "medidas": "Ver ultima foto.",
+    "precio": "42.000"
+},
+{
+    "id": "maternal-14",
+    "titulo": "Mochila maternal",
+    "imagen": "img/maternal/Screenshot_20241218-162600-848.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162519-717.png",
+        "img/maternal/Screenshot_20241218-162527-797.png",
+        "img/maternal/Screenshot_20241218-162538-004.png",
+        "img/maternal/Screenshot_20241218-162546-206.png",
+        "img/maternal/Screenshot_20241218-162553-480.png",
+        "img/maternal/Screenshot_20241218-162609-907.png",
+        "img/maternal/Screenshot_20241218-162628-621.png",
+        "img/maternal/Screenshot_20241218-162618-643.png",
+        "img/maternal/Screenshot_20241218-162639-068.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "Ver ultima foto.",
+    "precio": "34.000"
+},
+{
+    "id": "maternal-15",
+    "titulo": "Bolso maternal",
+    "imagen": "img/maternal/Screenshot_20241218-162704-879.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162721-918.png",
+        "img/maternal/Screenshot_20241218-162714-100.png",
+        "img/maternal/Screenshot_20241218-162742-069.png",
+        "img/maternal/Screenshot_20241218-162750-761.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "Ver ultima foto.",
+    "precio": "38.000"
+},
+{
+    "id": "maternal-16",
+    "titulo": "Mesa comedor redonda",
+    "imagen": "img/maternal/Screenshot_20241218-162857-725.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162906-529.png",
+        "img/maternal/Screenshot_20241218-162827-797.png",
+        "img/maternal/Screenshot_20241218-162836-864.png",
+        "img/maternal/Screenshot_20241218-162836-864.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "",
+    "precio": "29.000"
+},
+{
+    "id": "maternal-17",
+    "titulo": "Mesa comedor cuadrada",
+    "imagen": "img/maternal/Screenshot_20241218-162922-283.png",
+    "imagenes_adicionales": [
+        "img/maternal/Screenshot_20241218-162930-263.png",
+        "img/maternal/Screenshot_20241218-162958-651.png",
+        "img/maternal/Screenshot_20241218-162943-821.png"
+        ],
+    "categoria": {
+        "nombre": "Maternales",
+        "id": "maternal"
+    },
+    "descripcion": "",
+    "medidas": "",
+    "precio": "34.000"
+},
     {
         "id": "bolsos-01",
         "titulo": "Bolso Deportivo",
@@ -1788,7 +2061,8 @@
         "medidas": "35cm de alto por 50cm de largo.",
         "precio": "39.000"
     },
-    {
+
+{
         "id": "bolsos-02",
         "titulo": "Bolso Deportivo",
         "imagen": "img/Bolsos deportivos/Photoroom-20241027_201842.png",
@@ -2367,7 +2641,7 @@
             "id": "escolar"
         },
         "descripcion": "",
-        "medidas": "38cm de alto por 33xm de largo.",
+        "medidas": "38cm de alto por 33cm de largo.",
         "precio": "35.000"
     },
     {
