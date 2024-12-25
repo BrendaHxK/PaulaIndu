@@ -816,47 +816,42 @@
         "medidas": "43cm de alto por 30cm de largo",
         "precio": "40.000"
     },
-    {
-        "id": "mochila-44",
-        "titulo": "Mochila multifunción",
-        "imagen": "img/mochilas/Screenshot_20241212-165309-600.png",
-        "imagenes_adicionales": [
-            "img/mochilas/Screenshot_20241212-165238-960.png",
-            "img/mochilas/Screenshot_20241212-165358-912.png",
-            "img/mochilas/Screenshot_20241212-165341-825.png",
-            "img/mochilas/Screenshot_20241212-165331-840.png",
-            "img/mochilas/Screenshot_20241212-165251-694.png"
-            ],
-        "categoria": {
-            "nombre": "Mochilas",
-            "id": "mochilas"
-        },
-        "descripcion": "Mochila multifuncional, puede usarse como maletín, bolso o mochila. Cuenta con multiples compartimetnos.",
-        "medidas": "42cm de alto, 32cm de largo, 15cm de profundidad.",
-        "precio": "65.000"
+{
+    "id": "mochila-44",
+    "titulo": "Mochila multifunción",
+    "imagen": "img/mochilas/Screenshot_20241212-165309-600.png",
+    "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241212-165238-960.png",
+        "img/mochilas/Screenshot_20241212-165358-912.png",
+        "img/mochilas/Screenshot_20241212-165341-825.png",
+        "img/mochilas/Screenshot_20241212-165331-840.png",
+        "img/mochilas/Screenshot_20241212-165251-694.png"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
     },
-    {
-        "id": "cyb-01",
-        "titulo": "SIN STOCK",
-        "imagen": "./img/cyb/20241011_123759_0006.png",
-        "imagenes_adicionales": [
-            "img/cyb/20241011_123759_0007.png",
-            "img/cyb/20241011_123759_0008.png",
-            "img/cyb/20241011_123759_0002.png",
-            "img/cyb/20241011_123759_0003.png",
-            "img/cyb/20241011_123758_0000.png",
-            "img/cyb/20241011_123759_0001.png",
-            "img/cyb/20241011_123759_0005.png",
-            "img/cyb/20241011_123759_0004.png"
-            ],
-        "categoria": {
-            "nombre": "Carteras y bolsos",
-            "id": "caryb"
-        },
-        "descripcion": "",
-        "medidas": "",
-        "precio": "26.000"
+    "descripcion": "Mochila multifuncional, puede usarse como maletín, bolso o mochila. Cuenta con multiples compartimetnos.",
+    "medidas": "42cm de alto, 32cm de largo, 15cm de profundidad.",
+    "precio": "65.000"
+},
+{
+    "id": "cyb-01",
+    "titulo": "Cartera Tote Bag",
+    "imagen": "img/cyb/screenshot_20241014-133543-037.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20241014-133554-261.png",
+        "img/cyb/screenshot_20241014-133604-019.png",
+        "img/cyb/screenshot_20241014-133613-374.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
     },
+    "descripcion": "",
+    "medidas": "21cm de alto por 28cm de largo.",
+    "precio": "46.000"
+},
     {
         "id": "cyb-02",
         "titulo": "Cartera Tote Bag",
@@ -876,22 +871,25 @@
         "medidas": "21cm de alto por 27cm de largo.",
         "precio": "55.000"
     },
-    {
-        "id": "cyb-03",
-        "titulo": "Morral de tela de avión",
-        "imagen": "./img/cyb/20241012_182719_0000.png",
-        "imagenes_adicionales": [
-            "img/cyb/20241012_182719_0001.png",
-            "img/cyb/20241012_182719_0007.png"
-            ],
-        "categoria": {
-            "nombre": "Carteras y bolsos",
-            "id": "caryb"
-        },
-        "descripcion": "Morral de tela impermeable",
-        "medidas": "23cm de alto por 20cm largo.",
-        "precio": "26.000"
+{
+    "id": "cyb-03",
+    "titulo": "Bolsos",
+    "imagen": "img/cyb/screenshot_20240505-125109~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240505-125128~2.png",
+        "img/cyb/screenshot_20240505-125112~2.png",
+        "img/cyb/screenshot_20240505-125204~2.png",
+        "img/cyb/screenshot_20240505-125117~2.png",
+        "img/cyb/screenshot_20240505-125125~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
     },
+    "descripcion": "Morral de tela impermeable",
+    "medidas": "26cm de alto por 34cm largo.",
+    "precio": "50.000"
+},
     {
         "id": "cyb-04",
         "titulo": "Cartera / morral",
@@ -1219,22 +1217,23 @@
         "medidas": "25cm de alto por 40cm de largo.",
         "precio": "49.000"
     },
-    {
-        "id": "cyb-21",
-        "titulo": "SIN STOCK",
-        "imagen": "./img/cyb/Photoroom-20240909_180812.png",
-        "imagenes_adicionales": [
-            "img/cyb/Photoroom-20240909_180742.png",
-            "img/cyb/Photoroom-20240909_180757.png"
-            ],
-        "categoria": {
-            "nombre": "Carteras y bolsos",
-            "id": "caryb"
-        },
-        "descripcion": "",
-        "medidas": "",
-        "precio": "24.000"
+{
+    "id": "cyb-21",
+    "titulo": "Bolsos",
+    "imagen": "img/cyb/screenshot_20240518-205146~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240518-205158~2.png",
+        "img/cyb/screenshot_20240518-205201~2.png",
+        "img/cyb/screenshot_20240518-205154~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
     },
+    "descripcion": "",
+    "medidas": "39cm de alto por 31cm de largo.",
+    "precio": "49.000"
+},
     {
         "id": "cyb-22",
         "titulo": "Bolso",
@@ -1276,23 +1275,25 @@
         "medidas": "",
         "precio": "25.000"
     },
-    {
-        "id": "cyb-24",
-        "titulo": "SIN STOCK",
-        "imagen": "./img/cyb/18_20240609_215952_0017.png",
-        "imagenes_adicionales": [
-            "img/cyb/19_20240609_215952_0018.png",
-            "img/cyb/20_20240609_215952_0019.png",
-            "img/cyb/21_20240609_215952_0020.png"
-            ],
-        "categoria": {
-            "nombre": "Carteras y bolsos",
-            "id": "caryb"
-        },
-        "descripcion": "",
-        "medidas": "",
-        "precio": "25.000"
+{
+    "id": "cyb-24",
+    "titulo": "Bolsos",
+    "imagen": "img/cyb/screenshot_20240505-125022~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240505-125016~2.png",
+        "img/cyb/screenshot_20240505-125026~2.png",
+        "img/cyb/screenshot_20240505-125029~2.png",
+        "img/cyb/screenshot_20240505-125033~2.png",
+        "img/cyb/screenshot_20240505-125019~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
     },
+    "descripcion": "",
+    "medidas": "29cm de alto, 32cm de largo, 13cm de profundidad",
+    "precio": "55.000"
+},
     {
         "id": "cyb-25",
         "titulo": "Morral",
@@ -1314,6 +1315,72 @@
         "medidas": "18cm de alto por 25cm de largo.",
         "precio": "23.000"
     },
+{
+    "id": "cyb-26",
+    "titulo": "Cartera",
+    "imagen": "img/riñoneras y pecheras/Screenshot_20241221-123931-448.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Screenshot_20241221-123944-006.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-123955-143.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "19cm de alto por 23cm de largo.",
+    "precio": "24.000"
+},
+{
+    "id": "cyb-27",
+    "titulo": "Bolsos urbanos",
+    "imagen": "img/cyb/screenshot_20240518-205225~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240518-205228~2.png",
+        "img/cyb/screenshot_20240518-205222~2.png",
+        "img/cyb/screenshot_20240518-205218~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "31cm de alto por 41cm de largo.",
+    "precio": "40.000"
+},
+{
+    "id": "cyb-28",
+    "titulo": "Bolsos urbanos",
+    "imagen": "img/cyb/screenshot_20240518-205316~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240518-205319~2.png",
+        "img/cyb/screenshot_20240518-205322~2.png",
+        "img/cyb/screenshot_20240518-205325~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "28cm de alto por 36cm de largo.",
+    "precio": "40.000"
+},    
+{
+    "id": "cyb-29",
+    "titulo": "Carteras",
+    "imagen": "img/cyb/screenshot_20240518-205440~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240518-205434~2.png",
+        "img/cyb/screenshot_20240518-205427~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "19cm de alto por 28cm de largo.",
+    "precio": "38.000"
+},
     {
         "id": "P-01",
         "titulo": "Morral cruzado",
@@ -1556,6 +1623,22 @@
         "medidas": "31cm de alto por 19cm de largo.",
         "precio": "24.000"
     },
+{
+    "id": "P-014",
+    "titulo": "Morral cruzado",
+    "imagen": "img/riñoneras y pecheras/Screenshot_20241221-123424-287.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Screenshot_20241221-123435-110.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-123446-783.png"
+        ],
+    "categoria": {
+        "nombre": "Pecheras",
+        "id": "pecheras"
+    },
+    "descripcion": "",
+    "medidas": "Ver ultima foto",
+    "precio": "32.000"
+},    
     {
         "id": "r-01",
         "titulo": "Riñonera",
@@ -1667,6 +1750,45 @@
     "descripcion": "",
     "medidas": "16cm de alto por 34cm de largo.",
     "precio": "19.000"
+},
+{
+    "id": "r-07",
+    "titulo": "Riñoneras",
+    "imagen": "img/riñoneras y pecheras/Screenshot_20241221-124906-436.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Screenshot_20241221-124857-531.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124803-267.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124915-616.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124825-150.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124815-265.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124837-578.png",
+        "img/riñoneras y pecheras/Screenshot_20241221-124847-896.png"
+        ],
+    "categoria": {
+        "nombre": "Riñoneras",
+        "id": "rinoneras"
+    },
+    "descripcion": "",
+    "medidas": "15cm de alto por 25cm de largo.",
+    "precio": "22.000"
+},
+{
+    "id": "r-08",
+    "titulo": "Maxi riñonera de cuero PU",
+    "imagen": "img/riñoneras y pecheras/Photoroom-20241212_114541.png",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/Photoroom-20241212_114525.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114556.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114628.png",
+        "img/riñoneras y pecheras/Photoroom-20241212_114613.png"
+        ],
+    "categoria": {
+        "nombre": "Riñoneras",
+        "id": "rinoneras"
+    },
+    "descripcion": "",
+    "medidas": "18cm de alto por 25cm de largo.",
+    "precio": "33.000"
 },        
     {
         "id": "matero-01",
@@ -2500,40 +2622,123 @@
         "medidas": "23cm de alto por 44cm de largo.",
         "precio": "44.000"
     },
-    {
-        "id": "bolsos-25",
-        "titulo": "Bolso deportivo",
-        "imagen": "img/mochilas/Screenshot_20241212-165443-533.png",
-        "imagenes_adicionales": [
-            "img/mochilas/Screenshot_20241212-165426-633.png"
-            ],
-        "categoria": {
-            "nombre": "Bolsos Deportivos",
-            "id": "bolsosdep"
-        },
-        "descripcion": "",
-        "medidas": "26cm de alto, 46cm de largo, 22cm de profundidad.",
-        "precio": "43.000"
+{
+    "id": "bolsos-25",
+    "titulo": "Bolso deportivo",
+    "imagen": "img/mochilas/Screenshot_20241212-165443-533.png",
+    "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241212-165426-633.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
     },
+    "descripcion": "",
+    "medidas": "26cm de alto, 46cm de largo, 22cm de profundidad.",
+    "precio": "43.000"
+},
+{
+    "id": "bolsos-26",
+    "titulo": "Bolso de viaje",
+    "imagen": "img/bolsos deportivos/Screenshot_20241109-201042-160.png",
+    "imagenes_adicionales": [
+        "img/bolsos deportivos/Screenshot_20241109-201006-927.png",
+        "img/bolsos deportivos/Screenshot_20241109-201023-545.png",
+        "img/bolsos deportivos/Screenshot_20241109-201014-606.png",
+        "img/bolsos deportivos/Screenshot_20241109-201032-563.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
+    },
+    "descripcion": "Bolso Burbrery",
+    "medidas": "26cm de alto, 46cm de largo.",
+    "precio": "42.000"
+},
+{
+    "id": "bolsos-27",
+    "titulo": "Bolso deportivo",
+    "imagen": "img/bolsos deportivos/screenshot_20240518-213700~2.png",
+    "imagenes_adicionales": [
+        "img/bolsos deportivos/screenshot_20240518-213706~2.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
+    },
+    "descripcion": "",
+    "medidas": "28cm de alto, 49cm de largo.",
+    "precio": "45.000"
+},
     {
         "id": "portaNot-01",
-        "titulo": "SIN STOCK",
-        "imagen": "img/Porta laptop/2_20240609_220307_0001.png",
+        "titulo": "Porta Notebook",
+        "imagen": "img/notebook/Screenshot_20241221-130143-385.png",
         "imagenes_adicionales": [
-            "img/Porta laptop/3_20240609_220307_0002.png",
-            "img/Porta laptop/1_20240609_220307_0000.png",
-            "img/Porta laptop/4_20240609_220307_0003.png",
-            "img/Porta laptop/6_20240609_220307_0005.png",
-            "img/Porta laptop/7_20240609_220307_0006.png"
+            "img/notebook/Screenshot_20241221-130152-045.png",
+            "img/notebook/Screenshot_20241221-130203-464.png"
             ],
         "categoria": {
             "nombre": "Porta Notebooks",
             "id": "notebook"
         },
         "descripcion": "",
-        "medidas": "",
-        "precio": "35.000"
+        "medidas": "28cm de alto por 41cm de largo.",
+        "precio": "34.000"
     },
+{
+    "id": "portaNot-02",
+    "titulo": "Porta Notebook",
+    "imagen": "img/notebook/Screenshot_20241221-130228-881.png",
+    "imagenes_adicionales": [
+        "img/notebook/Screenshot_20241221-130239-731.png",
+        "img/notebook/Screenshot_20241221-130253-308.png"
+    ],
+    "categoria": {
+        "nombre": "Porta Notebooks",
+        "id": "notebook"
+    },
+    "descripcion": "Solo disponible en negro",
+    "medidas": "28cm de alto por 40cm de largo y 9cm de profundidad.",
+    "precio": "37.000"
+},
+{
+    "id": "portaNot-03",
+    "titulo": "Porta Notebook",
+    "imagen": "img/notebook/Screenshot_20241221-130328-248.png",
+    "imagenes_adicionales": [
+        "img/notebook/Screenshot_20241221-130319-414.png",
+        "img/notebook/Screenshot_20241221-130345-539.png",
+        "img/notebook/Screenshot_20241221-130336-895.png"
+    ],
+    "categoria": {
+        "nombre": "Porta Notebooks",
+        "id": "notebook"
+    },
+    "descripcion": "Solo disponible en negro",
+    "medidas": "29cm de alto por 38cm de largo y 7cm de profundidad.",
+    "precio": "35.000"
+},
+{
+    "id": "portaNot-04",
+    "titulo": "Porta Notebook",
+    "imagen": "img/notebook/Screenshot_20241221-131154-687.png",
+    "imagenes_adicionales": [
+        "img/notebook/Screenshot_20241221-131115-885.png",
+        "img/notebook/Screenshot_20241221-131202-224.png",
+        "img/notebook/Screenshot_20241221-131210-814.png",
+        "img/notebook/Screenshot_20241221-131125-952.png",
+        "img/notebook/Screenshot_20241221-131146-163.png",
+        "img/notebook/Screenshot_20241221-131135-887.png"
+    ],
+    "categoria": {
+        "nombre": "Porta Notebooks",
+        "id": "notebook"
+    },
+    "descripcion": "Solo disponible en negro",
+    "medidas": "Ver ultima foto",
+    "precio": "37.000"
+},     
     {
         "id": "escolar-01",
         "titulo": "Mochila escolar para nena",
