@@ -837,39 +837,44 @@
 },
 {
     "id": "cyb-01",
-    "titulo": "Cartera Tote Bag",
-    "imagen": "img/cyb/screenshot_20241014-133543-037.png",
+    "titulo": "Carteras",
+    "imagen": "img/cyb/Photoroom-20241226_121754.png",
     "imagenes_adicionales": [
-        "img/cyb/screenshot_20241014-133554-261.png",
-        "img/cyb/screenshot_20241014-133604-019.png",
-        "img/cyb/screenshot_20241014-133613-374.png"
+        "img/cyb/Photoroom-20241226_121735.png",
+        "img/cyb/Photoroom-20241226_121717.png",
+        "img/cyb/Photoroom-20241226_121701.png",
+        "img/cyb/Photoroom-20241226_121644.png",
+        "img/cyb/Photoroom-20241226_121627.png",
+        "img/cyb/Photoroom-20241226_121810.png"
         ],
     "categoria": {
         "nombre": "Carteras y bolsos",
         "id": "caryb"
     },
-    "descripcion": "",
-    "medidas": "21cm de alto por 28cm de largo.",
-    "precio": "46.000"
+    "descripcion": "Hecha de cuero PU",
+    "medidas": "16cm de alto por 21cm de largo.",
+    "precio": "26.000"
 },
     {
         "id": "cyb-02",
-        "titulo": "Cartera Tote Bag",
-        "imagen": "./img/cyb/Screenshot_20241106-153411-296.png",
+        "titulo": "Carteras",
+        "imagen": "img/cyb/Photoroom-20241225_214259.png",
         "imagenes_adicionales": [
-            "img/cyb/Screenshot_20241106-153419-236.png",
-            "img/cyb/Screenshot_20241106-153431-482.png",
-            "img/cyb/Screenshot_20241106-153439-352.png",
-            "img/cyb/Screenshot_20241106-153447-977.png",
-            "img/cyb/Screenshot_20241106-153456-050.png"
+            "img/cyb/Photoroom-20241225_214333.png",
+            "img/cyb/Photoroom-20241225_214408.png",
+            "img/cyb/Photoroom-20241225_214426.png",
+            "img/cyb/Photoroom-20241225_214347.png",
+            "img/cyb/Photoroom-20241225_214508.png",
+            "img/cyb/Photoroom-20241225_214316.png",
+            "img/cyb/Photoroom-20241225_214447.png"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Cartera Tote Bag",
+        "descripcion": "Hecha de cuero PU",
         "medidas": "21cm de alto por 27cm de largo.",
-        "precio": "55.000"
+        "precio": "26.000"
     },
 {
     "id": "cyb-03",
@@ -1381,6 +1386,82 @@
     "medidas": "19cm de alto por 28cm de largo.",
     "precio": "38.000"
 },
+{
+    "id": "cyb-30",
+    "titulo": "Cartera Tote Bag",
+    "imagen": "img/cyb/screenshot_20241014-133543-037.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20241014-133554-261.png",
+        "img/cyb/screenshot_20241014-133604-019.png",
+        "img/cyb/screenshot_20241014-133613-374.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "21cm de alto por 28cm de largo.",
+    "precio": "46.000"
+},
+    {
+        "id": "cyb-31",
+        "titulo": "Cartera Tote Bag",
+        "imagen": "./img/cyb/Screenshot_20241106-153411-296.png",
+        "imagenes_adicionales": [
+            "img/cyb/Screenshot_20241106-153419-236.png",
+            "img/cyb/Screenshot_20241106-153431-482.png",
+            "img/cyb/Screenshot_20241106-153439-352.png",
+            "img/cyb/Screenshot_20241106-153447-977.png",
+            "img/cyb/Screenshot_20241106-153456-050.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera Tote Bag",
+        "medidas": "21cm de alto por 27cm de largo.",
+        "precio": "55.000"
+    },
+{
+    "id": "cyb-32",
+    "titulo": "Bolsos",
+    "imagen": "img/cyb/screenshot_20240505-125109~2.png",
+    "imagenes_adicionales": [
+        "img/cyb/screenshot_20240505-125128~2.png",
+        "img/cyb/screenshot_20240505-125112~2.png",
+        "img/cyb/screenshot_20240505-125204~2.png",
+        "img/cyb/screenshot_20240505-125117~2.png",
+        "img/cyb/screenshot_20240505-125125~2.png"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "Morral de tela impermeable",
+    "medidas": "26cm de alto por 34cm largo.",
+    "precio": "50.000"
+},
+    {
+        "id": "cyb-33",
+        "titulo": "Cartera / morral",
+        "imagen": "img/cyb/20241012_180706_0005.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_180705_0001.png",
+            "img/cyb/20241012_180705_0002.png",
+            "img/cyb/20241012_180705_0003.png",
+            "img/cyb/20241012_180706_0006.png",
+            "img/cyb/20241012_180706_0007.png",
+            "./img/cyb/20241012_180705_0000.png",
+            "img/cyb/20241012_180705_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral de cuero PU, tres compartimentos. Incluye tira sublimada y de cuero.",
+        "medidas": "19cm de alto por 26cm de largo.",
+        "precio": "44.000"
+    },
     {
         "id": "P-01",
         "titulo": "Morral cruzado",
@@ -2670,6 +2751,47 @@
     "medidas": "28cm de alto, 49cm de largo.",
     "precio": "45.000"
 },
+{
+    "id": "bolsos-28",
+    "titulo": "Bolso deportivo grande",
+    "imagen": "img/bolsos deportivos/Photoroom-20241226_122047.png",
+    "imagenes_adicionales": [
+        "img/bolsos deportivos/Photoroom-20241226_122032.png",
+        "img/bolsos deportivos/Photoroom-20241226_121956.png",
+        "img/bolsos deportivos/Photoroom-20241226_122014.png",
+        "img/bolsos deportivos/Photoroom-20241226_122103.png",
+        "img/bolsos deportivos/Photoroom-20241226_122120.png",
+        "img/bolsos deportivos/Photoroom-20241226_122139.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
+    },
+    "descripcion": "Es impermeable, incluye tira larga.",
+    "medidas": "35cm de alto, 60cm de largo.",
+    "precio": "33.000"
+},
+{
+    "id": "bolsos-29",
+    "titulo": "Bolso deportivo",
+    "imagen": "img/bolsos deportivos/Photoroom-20241226_122200.png",
+    "imagenes_adicionales": [
+        "img/bolsos deportivos/Photoroom-20241226_122216.png",
+        "img/bolsos deportivos/Photoroom-20241226_122232.png",
+        "img/bolsos deportivos/Photoroom-20241226_122249.png",
+        "img/bolsos deportivos/Photoroom-20241226_122307.png",
+        "img/bolsos deportivos/Photoroom-20241226_122324.png",
+        "img/bolsos deportivos/Photoroom-20241226_122343.png",
+        "img/bolsos deportivos/Photoroom-20241226_122359.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
+    },
+    "descripcion": "Es impermeable, incluye tira larga y compartimento para zapatillas.",
+    "medidas": "32cm de alto, 52cm de largo.",
+    "precio": "35.000"
+},
     {
         "id": "portaNot-01",
         "titulo": "Porta Notebook",
@@ -2938,6 +3060,110 @@
     "precio": "27.000"
 },
 {
+    "id": "escolar-12",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas escolares/Photoroom-20241226_122731.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Photoroom-20241226_122747.png",
+        "img/mochilas escolares/Photoroom-20241226_122824.png",
+        "img/mochilas escolares/Photoroom-20241226_122844.png",
+        "img/mochilas escolares/Photoroom-20241226_122807.png",
+        "img/mochilas escolares/Photoroom-20241226_122904.png",
+        "img/mochilas escolares/Photoroom-20241226_122943.png",
+        "img/mochilas escolares/Photoroom-20241226_122924.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable",
+    "medidas": "45cm de alto por 31cm de largo",
+    "precio": "35.000"
+},
+{
+    "id": "escolar-13",
+    "titulo": "Mochilas para nena",
+    "imagen": "img/mochilas escolares/Photoroom-20241226_123456.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Photoroom-20241226_123512.png",
+        "img/mochilas escolares/Photoroom-20241226_123532.png",
+        "img/mochilas escolares/Photoroom-20241226_123423.png",
+        "img/mochilas escolares/Photoroom-20241226_123440.png",
+        "img/mochilas escolares/Photoroom-20241226_123615.png",
+        "img/mochilas escolares/Photoroom-20241226_123559.png",
+        "img/mochilas escolares/Photoroom-20241226_123632.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable",
+    "medidas": "45cm de alto por 31cm de largo",
+    "precio": "38.000"
+},
+{
+    "id": "escolar-14",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas escolares/Photoroom-20241226_123250.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Photoroom-20241226_123308.png",
+        "img/mochilas escolares/Photoroom-20241226_123216.png",
+        "img/mochilas escolares/Photoroom-20241226_123403.png",
+        "img/mochilas escolares/Photoroom-20241226_123159.png",
+        "img/mochilas escolares/Photoroom-20241226_123233.png",
+        "img/mochilas escolares/Photoroom-20241226_123343.png",
+        "img/mochilas escolares/Photoroom-20241226_123325.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable",
+    "medidas": "45cm de alto por 31cm de largo",
+    "precio": "38.000"
+},
+{
+    "id": "escolar-15",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas escolares/Photoroom-20241226_122517.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Photoroom-20241226_122534.png",
+        "img/mochilas escolares/Photoroom-20241226_122447.png",
+        "img/mochilas escolares/Photoroom-20241226_122502.png",
+        "img/mochilas escolares/Photoroom-20241226_122548.png",
+        "img/mochilas escolares/Photoroom-20241226_122604.png",
+        "img/mochilas escolares/Photoroom-20241226_122619.png",
+        "img/mochilas escolares/Photoroom-20241226_122656.png",
+        "img/mochilas escolares/Photoroom-20241226_122713.png",
+        "img/mochilas escolares/Photoroom-20241226_122636.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable",
+    "medidas": "45cm de alto por 35cm de largo",
+    "precio": "38.000"
+},
+{
+    "id": "escolar-16",
+    "titulo": "Set escolar para nena",
+    "imagen": "img/sets/Photoroom-20241226_123648.png",
+    "imagenes_adicionales": [
+        "img/sets/Photoroom-20241226_123704.png",
+        "img/sets/Photoroom-20241226_123721.png",
+        "img/sets/Photoroom-20241226_123739.png",
+        "img/sets/Photoroom-20241226_123757.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Set escolar de 3 piezas, incluye morral, mochila y cartuchera.",
+    "medidas": "Mochila: 43cm de alto por 31cm de largo.",
+    "precio": "40.000"
+},
+{
     "id": "set-01",
     "titulo": "Set de 5 piezas",
     "imagen": "img/mochilas/screenshot_20241112-095450-010.png",
@@ -3079,6 +3305,24 @@
     "descripcion": "",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
     "precio": "42.000"
+},
+{
+    "id": "set-09",
+    "titulo": "Set escolar",
+    "imagen": "img/sets/Photoroom-20241226_123648.png",
+    "imagenes_adicionales": [
+        "img/sets/Photoroom-20241226_123704.png",
+        "img/sets/Photoroom-20241226_123721.png",
+        "img/sets/Photoroom-20241226_123739.png",
+        "img/sets/Photoroom-20241226_123757.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set escolar de 3 piezas, incluye morral, mochila y cartuchera.",
+    "medidas": "Mochila: 43cm de alto por 31cm de largo.",
+    "precio": "40.000"
 },   
     {
         "id": "verano-01",
@@ -3140,6 +3384,39 @@
         "descripcion": "Playero de lona impermeable.",
         "medidas": "39cm de alto por 55cm de largo.",
         "precio": "22.000"
-    }
-    
+    },
+{
+    "id": "billetera-01",
+    "titulo": "Billetera de Boca",
+    "imagen": "img/billeteras/Photoroom-20241226_121001.png",
+    "imagenes_adicionales": [
+        "img/billeteras/Photoroom-20241226_121100.png",
+        "img/billeteras/Photoroom-20241226_121022.png",
+        "img/billeteras/Photoroom-20241226_121043.png"
+        ],
+    "categoria": {
+        "nombre": "Billeteras",
+        "id": "billeteras"
+    },
+    "descripcion": "Billetera de Boca Junior original, hecha de cuero PU..",
+    "medidas": "12cm de alto por 9cm de largo.",
+    "precio": "22.000"
+},
+{
+    "id": "billetera-02",
+    "titulo": "Billetera de River",
+    "imagen": "img/billeteras/Photoroom-20241226_121126.png",
+    "imagenes_adicionales": [
+        "img/billeteras/Photoroom-20241226_121230.png",
+        "img/billeteras/Photoroom-20241226_121210.png",
+        "img/billeteras/Photoroom-20241226_121150.png"
+        ],
+    "categoria": {
+        "nombre": "Billeteras",
+        "id": "billeteras"
+    },
+    "descripcion": "Billetera de River Plate original, hecha de cuero PU..",
+    "medidas": "12cm de alto por 9cm de largo.",
+    "precio": "22.000"
+}    
 ]
