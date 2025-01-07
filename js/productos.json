@@ -836,6 +836,47 @@
     "precio": "65.000"
 },
 {
+    "id": "mochila-45",
+    "titulo": "Mochila unisex",
+    "imagen": "img/mochilas/Screenshot_20241229-123829-373.png",
+    "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20241229-123908-055.png",
+        "img/mochilas/Screenshot_20241229-123918-214.png",
+        "img/mochilas/Screenshot_20241229-123837-794.png",
+        "img/mochilas/Screenshot_20241229-123818-372.png",
+        "img/mochilas/Screenshot_20241229-123847-103.png",
+        "img/mochilas/Screenshot_20241229-123857-214.png",
+        "img/mochilas/Screenshot_20241229-123734-389.png"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila impermeable, varios compartimentos y tela reflectiva.",
+    "medidas": "49cm de alto por 31cm de largo.",
+    "precio": "42.000"
+},
+{
+    "id": "mochila-46",
+    "titulo": "Mochila Carry On",
+    "imagen": "img/mochilas/Screenshot_20250105-204230-681.png",
+    "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20250105-204242-797.png",
+        "img/mochilas/Screenshot_20250105-204251-276.png",
+        "img/mochilas/Screenshot_20250105-204151-387.png",
+        "img/mochilas/Screenshot_20250105-204141-023.png",
+        "img/mochilas/Screenshot_20250105-204218-314.png",
+        "img/mochilas/Screenshot_20250105-204204-317.png"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Gran capacidad de almacenamiento, ideal para viajes.",
+    "medidas": "41cm de alto por 31cm de largo.",
+    "precio": "65.000"
+},
+{
     "id": "cyb-01",
     "titulo": "Carteras",
     "imagen": "img/cyb/Photoroom-20241226_121754.png",
@@ -2792,6 +2833,27 @@
     "medidas": "32cm de alto, 52cm de largo.",
     "precio": "35.000"
 },
+{
+    "id": "bolsos-30",
+    "titulo": "Mochila de viaje",
+    "imagen": "img/mochilas/Screenshot_20250105-204230-681.png",
+    "imagenes_adicionales": [
+        "img/mochilas/Screenshot_20250105-204242-797.png",
+        "img/mochilas/Screenshot_20250105-204251-276.png",
+        "img/mochilas/Screenshot_20250105-204151-387.png",
+        "img/mochilas/Screenshot_20250105-204141-023.png",
+        "img/mochilas/Screenshot_20250105-204218-314.png",
+        "img/mochilas/Screenshot_20250105-204204-317.png"
+        ],
+    "categoria": {
+        "nombre": "Bolsos Deportivos",
+        "id": "bolsosdep"
+    },
+    "descripcion": "Gran capacidad de almacenamiento, ideal para viajes.",
+    "medidas": "41cm de alto por 31cm de largo.",
+    "precio": "65.000"
+},
+
     {
         "id": "portaNot-01",
         "titulo": "Porta Notebook",
@@ -3162,6 +3224,149 @@
     "descripcion": "Set escolar de 3 piezas, incluye morral, mochila y cartuchera.",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
     "precio": "40.000"
+},
+{
+    "id": "escolar-17",
+    "titulo": "Mochila de personajes",
+    "imagen": "img/mochilas escolares/Photoroom-20250105_195319.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Photoroom-20250105_195243.png",
+        "img/mochilas escolares/Photoroom-20250105_195220.png",
+        "img/mochilas escolares/Photoroom-20250105_195343.png",
+        "img/mochilas escolares/Photoroom-20250105_195416.png",
+        "img/mochilas escolares/Photoroom-20250105_195303.png",
+        "img/mochilas escolares/Photoroom-20250105_195434.png",
+        "img/mochilas escolares/Photoroom-20250105_195507.png",
+        "img/mochilas escolares/Photoroom-20250105_195450.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Ideal para 1er y 2do grado. Es impermeable, reforzada y cuenta con dos cierres.",
+    "medidas": "38cm de alto por 30cm de  largo.",
+    "precio": "36.000"
+},
+{
+    "id": "escolar-18",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-174255-912.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-174308-557.png",
+        "img/mochilas escolares/Screenshot_20250105-174320-225.png",
+        "img/mochilas escolares/Screenshot_20250105-174330-046.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es reforzada e impermeable.",
+    "medidas": "36cm de alto por 26cm de largo y 12cm de profundidad.",
+    "precio": "33.000"
+},
+{
+    "id": "escolar-19",
+    "titulo": "Mochila del Hombre araña",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-175059-562.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-175135-739.png",
+        "img/mochilas escolares/Screenshot_20250105-175124-657.png",
+        "img/mochilas escolares/Screenshot_20250105-175111-112.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es reforzada e impermeable, cuenta con varios compartimentos.",
+    "medidas": "Ver última foto.",
+    "precio": "39.000"
+},
+{
+    "id": "escolar-20",
+    "titulo": "Mochila para varón",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-181154-282.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-181140-744.png",
+        "img/mochilas escolares/Screenshot_20250105-181131-152.png",
+        "img/mochilas escolares/Screenshot_20250105-181203-542.png",
+        "img/mochilas escolares/Screenshot_20250105-181121-196.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable.",
+    "medidas": "33cm de alto por 23cm de largo.",
+    "precio": "27.000"
+},
+{
+    "id": "escolar-21",
+    "titulo": "Mochila + cartuchera",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-181657-902.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-181648-865.png",
+        "img/mochilas escolares/Screenshot_20250105-181724-026.png",
+        "img/mochilas escolares/Screenshot_20250105-181745-100.png",
+        "img/mochilas escolares/Screenshot_20250105-181708-890.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable y reforzada, incluye cartuchera.",
+    "medidas": "Ver última foto.",
+    "precio": "45.000"
+},
+{
+    "id": "escolar-22",
+    "titulo": "Mochila + monederito",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-182630-583.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-182651-302.png",
+        "img/mochilas escolares/Screenshot_20250105-182704-526.png",
+        "img/mochilas escolares/Screenshot_20250105-182714-274.png",
+        "img/mochilas escolares/Screenshot_20250105-182621-609.png",
+        "img/mochilas escolares/Screenshot_20250105-182825-391.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable y reforzada.",
+    "medidas": "33cm de alto por 26cm de largo.",
+    "precio": "34.000"
+},
+{
+    "id": "escolar-23",
+    "titulo": "Mochila de nena",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-192450-263.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-192511-689.png",
+        "img/mochilas escolares/Screenshot_20250105-192502-449.png",
+        "img/mochilas escolares/Screenshot_20250105-192526-092.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable.",
+    "medidas": "32cm de alto por 25cm de largo.",
+    "precio": "29.000"
+},
+{
+    "id": "escolar-24",
+    "titulo": "Mochila para nene",
+    "imagen": "img/mochilas escolares/Screenshot_20250105-193153-851.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Screenshot_20250105-193202-713.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Es impermeable.",
+    "medidas": "30cm de alto por 20cm de largo.",
+    "precio": "25.000"
 },
 {
     "id": "set-01",
