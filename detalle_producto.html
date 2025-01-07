@@ -77,38 +77,32 @@
                                 document.getElementById("imagen-principal-display").src = imagenSeleccionada;
                             });
                         });
+
+                        // Agregar evento de zoom solo para la imagen principal
+                        const imagenPrincipal = document.getElementById("imagen-principal-display");
+                        const lightbox = document.getElementById("lightbox");
+                        const lightboxImg = document.getElementById("lightbox-img");
+                        const lightboxClose = document.getElementById("lightbox-close");
+
+                        imagenPrincipal.addEventListener("click", () => {
+                            lightboxImg.src = imagenPrincipal.src; // Asignar la imagen seleccionada al lightbox
+                            lightbox.style.display = "flex"; // Mostrar el lightbox
+                        });
+
+                        lightboxClose.addEventListener("click", () => {
+                            lightbox.style.display = "none"; // Ocultar el lightbox
+                        });
+
+                        lightbox.addEventListener("click", (e) => {
+                            if (e.target === lightbox) {
+                                lightbox.style.display = "none"; // Ocultar el lightbox al hacer clic fuera de la imagen
+                            }
+                        });
                     } else {
                         document.getElementById("detalle-producto").innerHTML = "<p>Producto no encontrado.</p>";
                     }
                 })
                 .catch(error => console.error("Error al cargar los detalles del producto:", error));
-        });
-
-        // Código del lightbox
-        document.addEventListener("DOMContentLoaded", () => {
-            const lightbox = document.getElementById("lightbox");
-            const lightboxImg = document.getElementById("lightbox-img");
-            const lightboxClose = document.getElementById("lightbox-close");
-
-            // Abrir el lightbox al hacer clic en una imagen
-            document.body.addEventListener("click", (e) => {
-                if (e.target.classList.contains("producto-imagen-principal") || e.target.classList.contains("producto-imagen-adicional")) {
-                    lightboxImg.src = e.target.src; // Cambiar la imagen del lightbox
-                    lightbox.style.display = "flex"; // Mostrar el lightbox
-                }
-            });
-
-            // Cerrar el lightbox al hacer clic en el botón de cerrar
-            lightboxClose.addEventListener("click", () => {
-                lightbox.style.display = "none"; // Ocultar el lightbox
-            });
-
-            // Cerrar el lightbox al hacer clic fuera de la imagen
-            lightbox.addEventListener("click", (e) => {
-                if (e.target === lightbox) {
-                    lightbox.style.display = "none"; // Ocultar el lightbox
-                }
-            });
         });
     </script>
 </body>
