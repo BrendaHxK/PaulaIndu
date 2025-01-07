@@ -16,14 +16,19 @@
     <main id="detalle-producto">
         <!-- Los detalles del producto se mostrarán aquí -->
     </main>
-<footer>
-    <p>Contacto:</p>
-    <div class="social-links">
-        <a href="https://www.instagram.com/paulaindumentarialp/" target="_blank">Instagram</a>
-        <a href="https://wa.me/542216413004" target="_blank">WhatsApp</a>
-        <a href="https://www.facebook.com/profile.php?id=100094695319833&locale=es_LA" target="_blank">Facebook</a>
+    <div id="lightbox">
+        <span id="lightbox-close">&times;</span>
+        <img id="lightbox-img" src="" alt="Imagen ampliada">
     </div>
-</footer>
+
+    <footer>
+        <p>Contacto:</p>
+        <div class="social-links">
+            <a href="https://www.instagram.com/paulaindumentarialp/" target="_blank">Instagram</a>
+            <a href="https://wa.me/542216413004" target="_blank">WhatsApp</a>
+            <a href="https://www.facebook.com/profile.php?id=100094695319833&locale=es_LA" target="_blank">Facebook</a>
+        </div>
+    </footer>
 
     <script>
         document.addEventListener("DOMContentLoaded", () => {
@@ -60,7 +65,7 @@
                                     <p><strong>Precio: $${producto.precio}</strong></p>
                                     </br>
                                     </br>
-                                    <p>Hacemos envios en La Plata y alrededores sin costo. Aceptamos efectivo, transferencia y crédito.</p>
+                                    <p>Hacemos envíos en La Plata y alrededores sin costo. Aceptamos efectivo, transferencia y crédito.</p>
                                 </div>
                             </div>
                         `;
@@ -68,7 +73,6 @@
                         // Funcionalidad para cambiar solo la imagen principal al hacer clic
                         document.querySelectorAll(".producto-imagen-adicional").forEach(img => {
                             img.addEventListener("click", () => {
-                                // Solo cambiamos la imagen central, no las del menú
                                 const imagenSeleccionada = img.dataset.imagen;
                                 document.getElementById("imagen-principal-display").src = imagenSeleccionada;
                             });
@@ -78,6 +82,33 @@
                     }
                 })
                 .catch(error => console.error("Error al cargar los detalles del producto:", error));
+        });
+
+        // Código del lightbox
+        document.addEventListener("DOMContentLoaded", () => {
+            const lightbox = document.getElementById("lightbox");
+            const lightboxImg = document.getElementById("lightbox-img");
+            const lightboxClose = document.getElementById("lightbox-close");
+
+            // Abrir el lightbox al hacer clic en una imagen
+            document.body.addEventListener("click", (e) => {
+                if (e.target.classList.contains("producto-imagen-principal") || e.target.classList.contains("producto-imagen-adicional")) {
+                    lightboxImg.src = e.target.src; // Cambiar la imagen del lightbox
+                    lightbox.style.display = "flex"; // Mostrar el lightbox
+                }
+            });
+
+            // Cerrar el lightbox al hacer clic en el botón de cerrar
+            lightboxClose.addEventListener("click", () => {
+                lightbox.style.display = "none"; // Ocultar el lightbox
+            });
+
+            // Cerrar el lightbox al hacer clic fuera de la imagen
+            lightbox.addEventListener("click", (e) => {
+                if (e.target === lightbox) {
+                    lightbox.style.display = "none"; // Ocultar el lightbox
+                }
+            });
         });
     </script>
 </body>
