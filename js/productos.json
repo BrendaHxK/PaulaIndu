@@ -3227,7 +3227,7 @@
 },
 {
     "id": "escolar-17",
-    "titulo": "Mochila de personajes",
+    "titulo": "Mochilas de 1er y 2do grado",
     "imagen": "img/mochilas escolares/Photoroom-20250105_195319.png",
     "imagenes_adicionales": [
         "img/mochilas escolares/Photoroom-20250105_195243.png",
@@ -3367,6 +3367,200 @@
     "descripcion": "Es impermeable.",
     "medidas": "30cm de alto por 20cm de largo.",
     "precio": "25.000"
+},
+{
+    "id": "escolar-25",
+    "titulo": "Mochila 1er y 2do grado",
+    "imagen": "img/mochilas escolares/g1-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/g2-Photoroom.png",
+        "img/mochilas escolares/g3-Photoroom.png",
+        "img/mochilas escolares/g4-Photoroom.png",
+        "img/mochilas escolares/g5-Photoroom.png",
+        "img/mochilas escolares/g8-Photoroom.png",
+        "img/mochilas escolares/g6-Photoroom.png",
+        "img/mochilas escolares/g7-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
+    "medidas": "37cm de alto por 30cm de largo.",
+    "precio": "34.000"
+},
+{
+    "id": "escolar-26",
+    "titulo": "Mochila 1er y 2do grado",
+    "imagen": "img/mochilas escolares/g9-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/g10-Photoroom.png",
+        "img/mochilas escolares/g11-Photoroom.png",
+        "img/mochilas escolares/g12-Photoroom.png",
+        "img/mochilas escolares/g13-Photoroom.png",
+        "img/mochilas escolares/g14-Photoroom.png",
+        "img/mochilas escolares/g15-Photoroom (1).png",
+        "img/mochilas escolares/g16-Photoroom.png",
+        "img/mochilas escolares/g18-Photoroom.png",
+        "img/mochilas escolares/g17-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
+    "medidas": "37cm de alto por 30cm de largo.",
+    "precio": "34.000"
+},
+{
+    "id": "escolar-27",
+    "titulo": "Mochila 1er y 2do grado",
+    "imagen": "img/mochilas escolares/g19-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/g20-Photoroom.png",
+        "img/mochilas escolares/g21-Photoroom.png",
+        "img/mochilas escolares/g22-Photoroom.png",
+        "img/mochilas escolares/g23-Photoroom.png",
+        "img/mochilas escolares/g24-Photoroom.png",
+        "img/mochilas escolares/g25-Photoroom.png",
+        "img/mochilas escolares/g26-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
+    "medidas": "37cm de alto por 30cm de largo.",
+    "precio": "34.000"
+},
+{
+    "id": "escolar-28",
+    "titulo": "Mochila 1er y 2do grado",
+    "imagen": "img/mochilas escolares/g27-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/g28-Photoroom.png",
+        "img/mochilas escolares/g29-Photoroom.png",
+        "img/mochilas escolares/g30-Photoroom.png",
+        "img/mochilas escolares/g31-Photoroom.png",
+        "img/mochilas escolares/g32-Photoroom.png",
+        "img/mochilas escolares/g25-Photoroom.png",
+        "img/mochilas escolares/g26-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
+    "medidas": "37cm de alto por 30cm de largo.",
+    "precio": "34.000"
+},
+{
+    "id": "escolar-29",
+    "titulo": "Mochilas 3er y 4to grado",
+    "imagen": "img/mochilas escolares/Untitled1-Photoroom-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Untitled2-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled3-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled4-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled-Photoroom (1)-Photoroom.png",
+        "img/mochilas escolares/Untitled-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled17-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled5-Photoroom-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "38.000"
+},
+{
+    "id": "escolar-30",
+    "titulo": "Mochilas 3er y 4to grado",
+    "imagen": "img/mochilas escolares/Untitled7-Photoroom-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/Untitled8-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled9-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled11-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled12-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled13-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled14-Photoroom-Photoroom.png",
+        "img/mochilas escolares/Untitled15-Photoroom-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "38.000"
+},
+{
+    "id": "escolar-31",
+    "titulo": "Mochilas 3er y 4to grado",
+    "imagen": "img/mochilas escolares/foto26-Photoroom-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/foto27-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto28-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto29-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto30-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto31-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto32-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto33-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto34-Photoroom-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "40.000"
+},
+{
+    "id": "escolar-32",
+    "titulo": "Mochilas 3er y 4to grado",
+    "imagen": "img/mochilas escolares/foto22-Photoroom-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/foto21-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto20-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto19-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto18-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto23-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto24-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto25-Photoroom-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "40.000"
+},
+{
+    "id": "escolar-33",
+    "titulo": "Mochilas de 1er y 2do grado",
+    "imagen": "img/mochilas escolares/f10-Photoroom-Photoroom.png",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/f10-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f14-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f13-Photoroom-Photoroom.png",
+        "img/mochilas escolares/foto19-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f12-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f11-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f15-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f16-Photoroom-Photoroom.png",
+        "img/mochilas escolares/f17-Photoroom-Photoroom.png"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
+    "medidas": "38cm de alto por 30cm de largo.",
+    "precio": "35.000"
 },
 {
     "id": "set-01",
