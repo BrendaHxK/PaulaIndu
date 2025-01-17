@@ -332,44 +332,45 @@
         "medidas": "40cm de alto, 28cm de largo y 10cm de profundidad.",
         "precio": "33.000"
     },
-    {
-        "id": "mochila-19",
-        "titulo": "SIN STOCK",
-        "imagen": "./img/mochilas/Photoroom-20240629_131355.png",
-        "imagenes_adicionales": [
-            "img/Mochilas/Photoroom-20240629_131424.png",
-            "img/Mochilas/Photoroom-20240629_131618.png",
-            "img/Mochilas/Photoroom-20240629_131452.png",
-            "img/Mochilas/Photoroom-20240629_131524.png"
-            ],
-        "categoria": {
-            "nombre": "Mochilas",
-            "id": "mochilas"
-        },
-        "descripcion": "",
-        "medidas": "",
-        "precio": "25.000"
+{
+    "id": "mochila-19",
+    "titulo": "Mochila impermeable",
+    "imagen": "img/mochilas/mochi194.png",
+    "imagenes_adicionales": [
+        "img/mochilas/mochi193-Photoroom.jpg",
+        "img/mochilas/mochi192-Photoroom.jpg",
+        "img/mochilas/mochi191-Photoroom.jpg",
+        "img/mochilas/mochi195-Photoroom.jpg",
+        "img/mochilas/mochi196.png"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
     },
-    {
-        "id": "mochila-20",
-        "titulo": "Mochila reforzada",
-        "imagen": "img/Mochilas/Photoroom-20240812_195136~2.png",
-        "imagenes_adicionales": [
-            "img/Mochilas/Photoroom-20240812_194856~2.png",
-            "img/Mochilas/Photoroom-20240812_195241~2.png",
-            "img/Mochilas/Photoroom-20240812_194727~2.png",
-            "img/Mochilas/Photoroom-20240812_195003~2.png",
-            "img/Mochilas/Photoroom-20240812_195205~2.png",
-            "img/Mochilas/Photoroom-20240812_195105~2.png"
-            ],
-        "categoria": {
-            "nombre": "Mochilas",
-            "id": "mochilas"
-        },
-        "descripcion": "Mochila impermeable, reforzada.",
-        "medidas": "47cm de alto por 34cm de largo.",
-        "precio": "38.000"
+    "descripcion": "Tela impermeable, incluye cable USB para power bank.",
+    "medidas": "Ver última foto",
+    "precio": "40.000"
+},
+{
+    "id": "mochila-20",
+    "titulo": "Mochila reforzada",
+    "imagen": "img/Mochilas/Photoroom-20240812_195136~2.png",
+    "imagenes_adicionales": [
+        "img/Mochilas/Photoroom-20240812_194856~2.png",
+        "img/Mochilas/Photoroom-20240812_195241~2.png",
+        "img/Mochilas/Photoroom-20240812_194727~2.png",
+        "img/Mochilas/Photoroom-20240812_195003~2.png",
+        "img/Mochilas/Photoroom-20240812_195205~2.png",
+        "img/Mochilas/Photoroom-20240812_195105~2.png"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
     },
+    "descripcion": "Mochila impermeable, reforzada.",
+    "medidas": "47cm de alto por 34cm de largo.",
+    "precio": "38.000"
+},
     {
         "id": "mochila-21",
         "titulo": "Mochila",
@@ -875,6 +876,47 @@
     "descripcion": "Gran capacidad de almacenamiento, ideal para viajes.",
     "medidas": "41cm de alto por 31cm de largo.",
     "precio": "65.000"
+},
+{
+    "id": "mochila-47",
+    "titulo": "Mochilas grandes, 2 cierres",
+    "imagen": "img/mochilas escolares/mochi363-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochi364-Photoroom.jpg",
+        "img/mochilas escolares/mochi362-Photoroom.jpg",
+        "img/mochilas escolares/mochi366-Photoroom.jpg",
+        "img/mochilas escolares/mochi361-Photoroom.jpg",
+        "img/mochilas escolares/mochi365-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable.",
+    "medidas": "45cm de alto por 35cm de largo.",
+    "precio": "36.000"
+},
+{
+    "id": "mochila-48",
+    "titulo": "Mochilas grandes, 3 cierres",
+    "imagen": "img/mochilas escolares/mochi371-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochi372-Photoroom.jpg",
+        "img/mochilas escolares/mochi373-Photoroom.jpg",
+        "img/mochilas escolares/mochi378-Photoroom.jpg",
+        "img/mochilas escolares/mochi377-Photoroom.jpg",
+        "img/mochilas escolares/mochi379-Photoroom.jpg",
+        "img/mochilas escolares/mochi3711-Photoroom.jpg",
+        "img/mochilas escolares/mochi3710-Photoroom.jpg",
+        "img/mochilas escolares/mochi376-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable.",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "34.000"
 },
 {
     "id": "cyb-01",
@@ -3561,6 +3603,90 @@
     "descripcion": "Cuenta con dos cierres, es impermeable y reforzada",
     "medidas": "38cm de alto por 30cm de largo.",
     "precio": "35.000"
+},
+{
+    "id": "escolar-34",
+    "titulo": "Mochilas 1er, 2do y 3er grado",
+    "imagen": "img/mochilas escolares/mochiVaron2-Photoroom (1).jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochiVaron3-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron4-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron1-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron2-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron5-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron6-Photoroom.jpg",
+        "img/mochilas escolares/mochiVaron7-Photoroom (1).jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "31cm de alto por 28cm de largo.",
+    "precio": "28.000"
+},
+{
+    "id": "escolar-35",
+    "titulo": "Mochilas 1er, 2do y 3er grado",
+    "imagen": "img/mochilas escolares/mochiNena6-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochiNena5-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena4-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena3-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena2-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena1-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena9-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena8-Photoroom.jpg",
+        "img/mochilas escolares/mochiNena7-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada",
+    "medidas": "31cm de alto por 28cm de largo.",
+    "precio": "28.000"
+},
+{
+    "id": "escolar-36",
+    "titulo": "Mochilas grandes, 2 cierres",
+    "imagen": "img/mochilas escolares/mochi363-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochi364-Photoroom.jpg",
+        "img/mochilas escolares/mochi362-Photoroom.jpg",
+        "img/mochilas escolares/mochi366-Photoroom.jpg",
+        "img/mochilas escolares/mochi361-Photoroom.jpg",
+        "img/mochilas escolares/mochi365-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable.",
+    "medidas": "45cm de alto por 35cm de largo.",
+    "precio": "36.000"
+},
+{
+    "id": "escolar-37",
+    "titulo": "Mochilas grandes, 3 cierres",
+    "imagen": "img/mochilas escolares/mochi371-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochi372-Photoroom.jpg",
+        "img/mochilas escolares/mochi373-Photoroom.jpg",
+        "img/mochilas escolares/mochi378-Photoroom.jpg",
+        "img/mochilas escolares/mochi377-Photoroom.jpg",
+        "img/mochilas escolares/mochi379-Photoroom.jpg",
+        "img/mochilas escolares/mochi3711-Photoroom.jpg",
+        "img/mochilas escolares/mochi3710-Photoroom.jpg",
+        "img/mochilas escolares/mochi376-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable.",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "34.000"
 },
 {
     "id": "set-01",
