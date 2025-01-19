@@ -919,6 +919,62 @@
     "precio": "34.000"
 },
 {
+    "id": "mochila-49",
+    "titulo": "Mochilas con strass",
+    "imagen": "img/mochilas/Mochila492-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochila495-Photoroom.jpg",
+        "img/mochilas/Mochila493-Photoroom.jpg",
+        "img/mochilas/Mochila491-Photoroom.jpg",
+        "img/mochilas/Mochila494-Photoroom.jpg",
+        "img/mochilas/Mochila496-Photoroom.jpg",
+        "img/mochilas/Mochila497-Photoroom.jpg",
+        "img/mochilas/Mochila498-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila de cuero PU, con strass. Dos cierres.",
+    "medidas": "29cm de alto por 26cm de largo.",
+    "precio": "35.000"
+},
+{
+    "id": "mochila-50",
+    "titulo": "Mochilas con strass",
+    "imagen": "img/mochilas/Mochila502-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochila501-Photoroom.jpg",
+        "img/mochilas/Mochila503-Photoroom.jpg",
+        "img/mochilas/Mochila504-Photoroom.jpg",
+        "img/mochilas/Mochila505-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila de cuero PU, con strass. Un cierre.",
+    "medidas": "28cm de alto por 26cm de largo.",
+    "precio": "35.000"
+},
+{
+    "id": "mochila-51",
+    "titulo": "Mochilas con strass",
+    "imagen": "img/mochilas/Mochila511-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochila512-Photoroom.jpg",
+        "img/mochilas/Mochila513-Photoroom.jpg",
+        "img/mochilas/Mochila514-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila de cuero PU + monederito, con strass. Un cierre.",
+    "medidas": "30cm de alto por 26cm de largo.",
+    "precio": "35.000"
+},
+{
     "id": "cyb-01",
     "titulo": "Carteras",
     "imagen": "img/cyb/Photoroom-20241226_121754.png",
@@ -1545,6 +1601,43 @@
         "medidas": "19cm de alto por 26cm de largo.",
         "precio": "44.000"
     },
+{
+    "id": "cyb-34",
+    "titulo": "Cartera / morral con strass",
+    "imagen": "img/cyb/morral341-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/cyb/morral342-Photoroom.jpg",
+        "img/cyb/morral343-Photoroom.jpg",
+        "img/cyb/morral344-Photoroom.jpg",
+        "img/cyb/morral345-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "Cartera / morral de cuero PU con strass y tiras estampadas.",
+    "medidas": "14cm de alto por 19cm largo.",
+    "precio": "34.000"
+},
+{
+    "id": "cyb-35",
+    "titulo": "Cartera / morral con strass",
+    "imagen": "img/cyb/car351-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/cyb/car355-Photoroom.jpg",
+        "img/cyb/car354-Photoroom.jpg",
+        "img/cyb/car352-Photoroom.jpg",
+        "img/cyb/car353-Photoroom.jpg",
+        "img/cyb/car356-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "Cartera / morral de cuero PU con strass.",
+    "medidas": "18cm de alto por 22cm largo.",
+    "precio": "42.000"
+},     
     {
         "id": "P-01",
         "titulo": "Morral cruzado",
@@ -1953,6 +2046,23 @@
     "descripcion": "",
     "medidas": "18cm de alto por 25cm de largo.",
     "precio": "33.000"
+},
+{
+    "id": "r-09",
+    "titulo": "Riñonera con strass",
+    "imagen": "img/riñoneras y pecheras/morral81-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/riñoneras y pecheras/morral82-Photoroom.jpg",
+        "img/riñoneras y pecheras/morral83-Photoroom.jpg",
+        "img/riñoneras y pecheras/morral85-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Riñoneras",
+        "id": "rinoneras"
+    },
+    "descripcion": "Hecha de cuero PU de excelente calidad, dos cierres.",
+    "medidas": "17cm de alto por 23cm de largo.",
+    "precio": "34.000"
 },        
     {
         "id": "matero-01",
@@ -3689,6 +3799,29 @@
     "precio": "34.000"
 },
 {
+    "id": "escolar-38",
+    "titulo": "Mochilas 3er y 4to grado",
+    "imagen": "img/mochilas escolares/mochiNene385-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochiNene384-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene383-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene382-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene381-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene386-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene387-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene388-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene389-Photoroom.jpg",
+        "img/mochilas escolares/mochiNene3810-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con tres cierres, es impermeable y reforzada.",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "39.000"
+},
+{
     "id": "set-01",
     "titulo": "Set de 5 piezas",
     "imagen": "img/mochilas/screenshot_20241112-095450-010.png",
@@ -3848,7 +3981,143 @@
     "descripcion": "Set escolar de 3 piezas, incluye morral, mochila y cartuchera.",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
     "precio": "40.000"
-},   
+},
+{
+    "id": "set-10",
+    "titulo": "Set ejecutivo de 3 piezas",
+    "imagen": "img/sets/Screenshot_20241014-105228-570.png",
+    "imagenes_adicionales": [
+        "img/sets/Screenshot_20241014-105250-937.png",
+        "img/sets/Screenshot_20241014-105238-985.png",
+        "img/sets/Screenshot_20241014-105312-439.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set ejecutivo de 3 piezas, incluye morral, mochila y billetera.",
+    "medidas": "Ver última foto.",
+    "precio": "40.000"
+},
+{
+    "id": "set-11",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set81.png",
+    "imagenes_adicionales": [
+        "img/sets/set82.png",
+        "img/sets/set83.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso.",
+    "medidas": "Mochila: 43cm de alto por 30cm de largo.",
+    "precio": "39.000"
+},
+{
+    "id": "set-12",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/set93.png",
+    "imagenes_adicionales": [
+        "img/sets/set91.png",
+        "img/sets/set92.png",
+        "img/sets/set94.png",
+        "img/sets/set95.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 5 piezas, impermeable. Incluye cartuchera, morral y bolso.",
+    "medidas": "Mochila: 47cm de alto por 32cm de largo.",
+    "precio": "45.000"
+},
+{
+    "id": "set-13",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set102.png",
+    "imagenes_adicionales": [
+        ""
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 4 piezas, impermeable. Incluye neceser y bolso.",
+    "medidas": "Mochila: 41cm de alto por 30cm de largo.",
+    "precio": "46.000"
+},
+{
+    "id": "set-14",
+    "titulo": "Set de 5 piezas",
+    "imagen": "img/sets/set111.png",
+    "imagenes_adicionales": [
+        "img/sets/set112.png",
+        "img/sets/set113.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 5 piezas, impermeable. Incluye cartuchera, morral y bolso.",
+    "medidas": "Mochila: 43cm de alto por 30cm de largo.",
+    "precio": "46.000"
+},
+{
+    "id": "set-15",
+    "titulo": "Set de 3 piezas",
+    "imagen": "img/sets/set123.png",
+    "imagenes_adicionales": [
+        "img/sets/set122.png",
+        "img/sets/set121.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 3 piezas, impermeable. Incluye cartuchera y neceser.",
+    "medidas": "Mochila: 43cm de alto por 29cm de largo.",
+    "precio": "47.000"
+},
+{
+    "id": "set-16",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set131.png",
+    "imagenes_adicionales": [
+        "img/sets/set133.png",
+        "img/sets/set132.png",
+        "img/sets/set134.png",
+        "img/sets/set135.png",
+        "img/sets/set136.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso. No incluye pin ni llavero.",
+    "medidas": "Mochila: 43cm de alto por 31cm de largo.",
+    "precio": "45.000"
+},
+{
+    "id": "set-17",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set143.png",
+    "imagenes_adicionales": [
+        "img/sets/set144.png",
+        "img/sets/set145.png",
+        "img/sets/set146.png",
+        "img/sets/set142.png",
+        "img/sets/set141.png"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso. No incluye pin.",
+    "medidas": "Mochila: 43cm de alto por 31cm de largo.",
+    "precio": "41.000"
+},    
     {
         "id": "verano-01",
         "titulo": "Bolso playero",
