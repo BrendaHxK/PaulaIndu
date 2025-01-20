@@ -975,6 +975,68 @@
     "precio": "35.000"
 },
 {
+    "id": "mochila-52",
+    "titulo": "Mochila de Boca Jrs.",
+    "imagen": "img/mochilas/Mochi551-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochi552-Photoroom.jpg",
+        "img/mochilas/Mochi553-Photoroom.jpg",
+        "img/mochilas/Mochi554-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila impermeable original.",
+    "medidas": "48cm de alto por 36cm de largo.",
+    "precio": "38.000"
+},
+{
+    "id": "mochila-53",
+    "titulo": "Mochila de Boca Jrs.",
+    "imagen": "img/mochilas/Mochi541-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochi543-Photoroom.jpg",
+        "img/mochilas/Mochi542-Photoroom.jpg"        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila impermeable y reforzada, es original.",
+    "medidas": "45cm de alto por 32cm de largo.",
+    "precio": "35.000"
+},
+{
+    "id": "mochila-54",
+    "titulo": "Mochila de River Plate.",
+    "imagen": "img/mochilas/Mochi531-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochi532-Photoroom.jpg",
+        "img/mochilas/Mochi533-Photoroom.jpg"        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila impermeable y reforzada, es original.",
+    "medidas": "48cm de alto por 34cm de largo.",
+    "precio": "35.000"
+},
+{
+    "id": "mochila-55",
+    "titulo": "Mochila de Boca Jrs.",
+    "imagen": "img/mochilas/Mochi521-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas/Mochi523-Photoroom.jpg",
+        "img/mochilas/Mochi522-Photoroom.jpg"        ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+    },
+    "descripcion": "Mochila impermeable y reforzada, es original.",
+    "medidas": "50cm de alto por 36cm de largo.",
+    "precio": "35.000"
+},
+{
     "id": "cyb-01",
     "titulo": "Carteras",
     "imagen": "img/cyb/Photoroom-20241226_121754.png",
@@ -1637,7 +1699,39 @@
     "descripcion": "Cartera / morral de cuero PU con strass.",
     "medidas": "18cm de alto por 22cm largo.",
     "precio": "42.000"
-},     
+}, 
+{
+    "id": "cyb-37",
+    "titulo": "Bolso de cuero ecológico",
+    "imagen": "img/cyb/cyb371-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/cyb/cyb372-Photoroom.jpg"        
+    ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "31cm de alto por 40cm largo.",
+    "precio": "25.000"
+},
+{
+    "id": "cyb-38",
+    "titulo": "Bolso puffer",
+    "imagen": "img/cyb/cyb381-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/cyb/cyb382-Photoroom.jpg",
+        "img/cyb/cyb383-Photoroom.jpg",
+        "img/cyb/cyb384-Photoroom.jpg"        
+    ],
+    "categoria": {
+        "nombre": "Carteras y bolsos",
+        "id": "caryb"
+    },
+    "descripcion": "",
+    "medidas": "38cm de alto por 45cm largo.",
+    "precio": "25.000"
+}, 
     {
         "id": "P-01",
         "titulo": "Morral cruzado",
@@ -2084,18 +2178,42 @@
     {
         "id": "matero-02",
         "titulo": "Matero de lona",
-        "imagen": "img/Materos/20240822_205348_0000.png",
+        "imagen": "img/materos/matero2-Photoroom.jpg",
         "imagenes_adicionales": [
-            "img/Materos/20240822_205348_0001.png"
+            "img/materos/matero21-Photoroom.jpg",
+            "img/materos/matero22-Photoroom.jpg",
+            "img/materos/matero23-Photoroom.jpg",
+            "img/materos/matero25-Photoroom.jpg",
+            "img/materos/matero24-Photoroom.jpg",
+            "img/materos/matero26-Photoroom.jpg",
+            "img/materos/matero27-Photoroom.jpg"
             ],
         "categoria": {
             "nombre": "Matero",
             "id": "materos"
         },
         "descripcion": "Matero impermeable.",
-        "medidas": "34cm de alto por 24cm de largo.",
+        "medidas": "35cm de alto por 25cm de largo y 12cm de profundidad.",
         "precio": "22.000"
     },
+{
+    "id": "matero-03",
+    "titulo": "Matero de lona impermeable",
+    "imagen": "img/materos/matero31-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/materos/matero3-Photoroom.jpg",
+        "img/materos/matero32-Photoroom.jpg",
+        "img/materos/matero33-Photoroom.jpg",
+        "img/materos/matero34-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Matero",
+        "id": "materos"
+    },
+    "descripcion": "Matero impermeable.",
+    "medidas": "39cm de alto por 28cm de largo.",
+    "precio": "28.000"
+},    
     {
         "id": "maternal-01",
         "titulo": "Mochila Maternal con cuna",
@@ -3822,6 +3940,88 @@
     "precio": "39.000"
 },
 {
+    "id": "escolar-39",
+    "titulo": "Mochilas kuromi",
+    "imagen": "img/mochilas escolares/mochiEsc391-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochiEsc392-Photoroom.jpg",
+        "img/mochilas escolares/mochiEsc394-Photoroom.jpg",
+        "img/mochilas escolares/mochiEsc393-Photoroom.jpg",
+        "img/mochilas escolares/mochiEsc395-Photoroom.jpg",
+        "img/mochilas escolares/mochiEsc396-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, es impermeable.",
+    "medidas": "45cm de alto por 34cm de largo.",
+    "precio": "36.000"
+},
+{
+    "id": "escolar-40",
+    "titulo": "Mochilas kuromi grande",
+    "imagen": "img/mochilas escolares/mochilaEsc401-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochilaEsc402-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc403-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc404-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc405-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc406-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc407-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, tres bolsillos frontales, es impermeable.",
+    "medidas": "44cm de alto por 32cm de largo.",
+    "precio": "37.000"
+},
+{
+    "id": "escolar-41",
+    "titulo": "Mochilas",
+    "imagen": "img/mochilas escolares/mochilaEsc411-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/mochilas escolares/mochilaEsc412-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc413-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc414-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc415-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc416-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc417-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc418-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc419-Photoroom.jpg",
+        "img/mochilas escolares/mochilaEsc4191-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Cuenta con dos cierres, un bolsillos frontal, es impermeable.",
+    "medidas": "38cm de alto por 30cm de largo.",
+    "precio": "35.000"
+},
+{
+    "id": "escolar-42",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set185-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/sets/set186-Photoroom.jpg",
+        "img/sets/set184-Photoroom.jpg",
+        "img/sets/set183-Photoroom.jpg",
+        "img/sets/set182-Photoroom.jpg",
+        "img/sets/set181-Photoroom.jpg",
+        "img/sets/set181-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Mochila Escolar",
+        "id": "escolar"
+    },
+    "descripcion": "Incluye mochila, bolso, morral y cartuchera.",
+    "medidas": "Mochila: 43cm de alto por 36cm de largo.",
+    "precio": "42.000"
+},
+{
     "id": "set-01",
     "titulo": "Set de 5 piezas",
     "imagen": "img/mochilas/screenshot_20241112-095450-010.png",
@@ -4117,6 +4317,26 @@
     "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso. No incluye pin.",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
     "precio": "41.000"
+},
+{
+    "id": "set-18",
+    "titulo": "Set de 4 piezas",
+    "imagen": "img/sets/set185-Photoroom.jpg",
+    "imagenes_adicionales": [
+        "img/sets/set186-Photoroom.jpg",
+        "img/sets/set184-Photoroom.jpg",
+        "img/sets/set183-Photoroom.jpg",
+        "img/sets/set182-Photoroom.jpg",
+        "img/sets/set181-Photoroom.jpg",
+        "img/sets/set187-Photoroom.jpg"
+        ],
+    "categoria": {
+        "nombre": "Sets de mochilas",
+        "id": "set"
+    },
+    "descripcion": "Set de 4 piezas, impermeable. Incluye mochila, bolso, morral y cartuchera.",
+    "medidas": "Mochila: 43cm de alto por 36cm de largo.",
+    "precio": "42.000"
 },    
     {
         "id": "verano-01",
