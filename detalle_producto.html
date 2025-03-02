@@ -11,7 +11,7 @@
 <body id="detalle-producto-page">
     <header id="detallesHeader">
         <h1>Detalles del Producto</h1>
-        <a href="index.html" id="menu-principal">Menú principal</a>
+        <a href="javascript:history.back();" id="menu-principal">Atrás</a>
     </header>
     <main id="detalle-producto">
         <!-- Los detalles del producto se mostrarán aquí -->
@@ -29,7 +29,8 @@
             <a href="https://www.facebook.com/profile.php?id=100094695319833&locale=es_LA" target="_blank">Facebook</a>
         </div>
     </footer>
-
+    
+    <script src="./js/menu.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
             const productoId = new URLSearchParams(window.location.search).get("id");

@@ -1,22 +1,33 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const openMenuButton = document.getElementById("open-menu");
-    const closeMenuButton = document.getElementById("close-menu");
-    const sidebar = document.getElementById("sidebar");
+document.addEventListener('DOMContentLoaded', function () {
+    const aside = document.querySelector('aside');
+    const openMenu = document.querySelector('.open-menu');
+    const closeMenu = document.querySelector('.close-menu');
+    const overlay = document.getElementById('overlay');
+    const body = document.body;
 
-    // Abrir el menú
-    openMenuButton.addEventListener("click", () => {
-        sidebar.classList.add("open");
+    openMenu.addEventListener('click', () => {
+        aside.classList.add('aside-visible');
+        overlay.style.display = 'block'; // Muestra la capa bloqueadora
+        body.classList.add('menu-abierto');
     });
 
-    // Cerrar el menú
-    closeMenuButton.addEventListener("click", () => {
-        sidebar.classList.remove("open");
+    closeMenu.addEventListener('click', () => {
+        aside.classList.remove('aside-visible');
+        overlay.style.display = 'none'; // Oculta la capa bloqueadora
+        body.classList.remove('menu-abierto');
     });
 
-    // Cerrar el menú al hacer clic fuera
-    document.addEventListener("click", (e) => {
-        if (sidebar.classList.contains("open") && !sidebar.contains(e.target) && !openMenuButton.contains(e.target)) {
-            sidebar.classList.remove("open");
+    overlay.addEventListener('click', () => {
+        aside.classList.remove('aside-visible');
+        overlay.style.display = 'none'; // Oculta la capa bloqueadora al hacer clic en el fondo
+        body.classList.remove('menu-abierto');
+    });
+
+    window.addEventListener('click', function (event) {
+        if (!aside.contains(event.target) && !openMenu.contains(event.target) && event.target !== overlay) {
+            aside.classList.remove('aside-visible');
+            overlay.style.display = 'none';
+            body.classList.remove('menu-abierto');
         }
     });
 });
