@@ -98,7 +98,7 @@
         },
         "descripcion": "Mochila impermeable. 45L de capacidad. Cuenta con compartimento para notebook.",
         "medidas": "45cm de alto, 31cm de largo, 15cm de profundidad",
-        "precio": "40.000"
+        "precio": "45.000"
     },
     {
         "id": "mochila-06",
@@ -115,7 +115,7 @@
         },
         "descripcion": "Mochila de lona, con compartimento para notebook incluído.",
         "medidas": "45cm de alto, 30cm de largo y 13cm de profundidad",
-        "precio": "39.000"
+        "precio": "41.000"
     },
     {
         "id": "mochila-07",
@@ -134,7 +134,7 @@
         },
         "descripcion": "",
         "medidas": "38cm de alto, 29cm de largo y 14cm de profundidad.",
-        "precio": "39.000"
+        "precio": "43.000"
     },
     {
         "id": "mochila-08",
@@ -758,7 +758,7 @@
         },
         "descripcion": "Mochila antirrobo, incluye cable USB. Multiples compartimentos.",
         "medidas": "43cm de alto por 26cm de largo.",
-        "precio": "36.000"
+        "precio": "38.000"
     },
     {
         "id": "mochila-41",
@@ -767,11 +767,7 @@
         "imagenes_adicionales": [
             "img/mochilas/Screenshot_20241212-165145-519.png",
             "img/mochilas/Screenshot_20241212-165155-351.png",
-            "img/mochilas/Screenshot_20241212-165135-571.png",
-            "img/mochilas/Screenshot_20241212-192953-169.png",
-            "img/mochilas/Screenshot_20241212-193055-309.png",
-            "img/mochilas/Screenshot_20241212-193041-173.png",
-            "img/mochilas/Screenshot_20241212-193004-184.png"
+            "img/mochilas/Screenshot_20241212-165135-571.png"
                         ],
         "categoria": {
             "nombre": "Mochilas",
@@ -779,7 +775,7 @@
         },
         "descripcion": "Mochila espaciosa y resistente, ideal para viajar. Cuenta con multiples compartimentos.",
         "medidas": "42cm de alto, 20cm de profundidad, 32cm de largo.",
-        "precio": "65.000"
+        "precio": "70.000"
     },
     {
         "id": "mochila-42",
@@ -797,7 +793,7 @@
         },
         "descripcion": "No incluye llavero.",
         "medidas": "46cm de alto por 33cm de largo.",
-        "precio": "38.000"
+        "precio": "39.000"
     },
     {
         "id": "mochila-43",
@@ -815,7 +811,7 @@
         },
         "descripcion": "",
         "medidas": "43cm de alto por 30cm de largo",
-        "precio": "40.000"
+        "precio": "45.000"
     },
 {
     "id": "mochila-44",
@@ -834,7 +830,7 @@
     },
     "descripcion": "Mochila multifuncional, puede usarse como maletín, bolso o mochila. Cuenta con multiples compartimetnos.",
     "medidas": "42cm de alto, 32cm de largo, 15cm de profundidad.",
-    "precio": "65.000"
+    "precio": "70.000"
 },
 {
     "id": "mochila-45",
@@ -855,7 +851,7 @@
     },
     "descripcion": "Mochila impermeable, varios compartimentos y tela reflectiva.",
     "medidas": "49cm de alto por 31cm de largo.",
-    "precio": "42.000"
+    "precio": "45.000"
 },
 {
     "id": "mochila-46",
@@ -3267,7 +3263,7 @@
         },
         "descripcion": "No incluye llavero.",
         "medidas": "45cm de alto por 36cm de largo.",
-        "precio": "38.000"
+        "precio": "39.000"
     },
     {
         "id": "escolar-05",
@@ -3286,7 +3282,7 @@
         },
         "descripcion": "Mochila escolar, no incluye llavero.",
         "medidas": "38cm de alto por 28cm de largo.",
-        "precio": "27.000"
+        "precio": "33.000"
     },
     {
         "id": "escolar-06",
@@ -3301,7 +3297,7 @@
         },
         "descripcion": "",
         "medidas": "38cm de alto por 33cm de largo.",
-        "precio": "35.000"
+        "precio": "43.000"
     },
     {
         "id": "escolar-07",
@@ -3316,7 +3312,7 @@
         },
         "descripcion": "",
         "medidas": "31cm de alto, 23cm de largo, 17cm de profundidad.",
-        "precio": "34.000"
+        "precio": "36.000"
     },
 {
     "id": "escolar-08",
@@ -3333,7 +3329,7 @@
     },
     "descripcion": "",
     "medidas": "31cm de alto, 23cm de largo, 17cm de profundidad.",
-    "precio": "34.000"
+    "precio": "36.000"
 },  
 {
     "id": "escolar-09",
@@ -3352,7 +3348,7 @@
     },
     "descripcion": "Incluye el llavero.",
     "medidas": "29cm de alto, 23cm de largo, 10cm de profundidad.",
-    "precio": "29.000"
+    "precio": "33.000"
 },
 {
     "id": "escolar-10",
@@ -3371,7 +3367,7 @@
     },
     "descripcion": "",
     "medidas": "28cm de alto, 20cm de largo, 7cm de profundidad.",
-    "precio": "29.000"
+    "precio": "33.000"
 },
 {
     "id": "escolar-11",
@@ -3532,7 +3528,7 @@
     },
     "descripcion": "Es reforzada e impermeable.",
     "medidas": "36cm de alto por 26cm de largo y 12cm de profundidad.",
-    "precio": "33.000"
+    "precio": "36.000"
 },
 {
     "id": "escolar-19",
@@ -3567,11 +3563,11 @@
     },
     "descripcion": "Es impermeable.",
     "medidas": "33cm de alto por 23cm de largo.",
-    "precio": "27.000"
+    "precio": "32.500"
 },
 {
     "id": "escolar-21",
-    "titulo": "Mochila + cartuchera",
+    "titulo": "SIN STOCK",
     "imagen": "img/mochilas escolares/Screenshot_20250105-181657-902.png",
     "imagenes_adicionales": [
         "img/mochilas escolares/Screenshot_20250105-181648-865.png",
@@ -3604,11 +3600,11 @@
     },
     "descripcion": "Es impermeable y reforzada.",
     "medidas": "33cm de alto por 26cm de largo.",
-    "precio": "34.000"
+    "precio": "36.000"
 },
 {
     "id": "escolar-23",
-    "titulo": "Mochila de nena",
+    "titulo": "SIN STOCK",
     "imagen": "img/mochilas escolares/Screenshot_20250105-192450-263.png",
     "imagenes_adicionales": [
         "img/mochilas escolares/Screenshot_20250105-192511-689.png",
@@ -3636,7 +3632,7 @@
     },
     "descripcion": "Es impermeable.",
     "medidas": "30cm de alto por 20cm de largo.",
-    "precio": "25.000"
+    "precio": "30.000"
 },
 {
     "id": "escolar-25",
@@ -4039,11 +4035,11 @@
     },
     "descripcion": "Set de 5 piezas, impermeable. No incluye el llavero.",
     "medidas": "Mochila: 40cm de alto por 31cm de largo",
-    "precio": "44.000"
+    "precio": "55.000"
 },
 {
     "id": "set-02",
-    "titulo": "Set premium",
+    "titulo": "SIN STOCK",
     "imagen": "img/sets/Screenshot_20241217-182700-138.png",
     "imagenes_adicionales": [
         "img/sets/Screenshot_20241217-183023-146.png",
@@ -4076,7 +4072,7 @@
     },
     "descripcion": "Set de 3 piezas: mochila, morral y billetera.",
     "medidas": "Mochila: 41cm de alto, 30 cm de largo.",
-    "precio": "38.000"
+    "precio": "45.000"
 },
 {
     "id": "set-04",
@@ -4094,7 +4090,7 @@
     },
     "descripcion": "",
     "medidas": "Mochila: 39cm de alto por 26cm de largo.",
-    "precio": "43.000"
+    "precio": "52.000"
 },
 {
     "id": "set-05",
@@ -4108,7 +4104,7 @@
     },
     "descripcion": "",
     "medidas": "Mochila: 45cm de alto por 30cm de largo.",
-    "precio": "45.000"
+    "precio": "52.000"
 },
 {
     "id": "set-06",
@@ -4126,11 +4122,11 @@
     },
     "descripcion": "",
     "medidas": "Mochila: 44cm de alto por 30cm de largo.",
-    "precio": "45.000"
+    "precio": "55.000"
 },
 {
     "id": "set-07",
-    "titulo": "Set de 3 piezas",
+    "titulo": "SIN STOCK",
     "imagen": "img/sets/Screenshot_20241217-184658-480.png",
     "imagenes_adicionales": [
         "img/sets/Screenshot_20241217-184610-425.png",
@@ -4162,7 +4158,7 @@
     },
     "descripcion": "",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
-    "precio": "42.000"
+    "precio": "52.000"
 },
 {
     "id": "set-09",
@@ -4180,7 +4176,7 @@
     },
     "descripcion": "Set escolar de 3 piezas, incluye morral, mochila y cartuchera.",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
-    "precio": "40.000"
+    "precio": "42.000"
 },
 {
     "id": "set-10",
@@ -4213,7 +4209,7 @@
     },
     "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso.",
     "medidas": "Mochila: 43cm de alto por 30cm de largo.",
-    "precio": "39.000"
+    "precio": "55.000"
 },
 {
     "id": "set-12",
@@ -4231,7 +4227,7 @@
     },
     "descripcion": "Set de 5 piezas, impermeable. Incluye cartuchera, morral y bolso.",
     "medidas": "Mochila: 47cm de alto por 32cm de largo.",
-    "precio": "45.000"
+    "precio": "55.000"
 },
 {
     "id": "set-13",
@@ -4246,11 +4242,11 @@
     },
     "descripcion": "Set de 4 piezas, impermeable. Incluye neceser y bolso.",
     "medidas": "Mochila: 41cm de alto por 30cm de largo.",
-    "precio": "46.000"
+    "precio": "56.000"
 },
 {
     "id": "set-14",
-    "titulo": "Set de 5 piezas",
+    "titulo": "SIN STOCK",
     "imagen": "img/sets/set111.png",
     "imagenes_adicionales": [
         "img/sets/set112.png",
@@ -4278,11 +4274,11 @@
     },
     "descripcion": "Set de 3 piezas, impermeable. Incluye cartuchera y neceser.",
     "medidas": "Mochila: 43cm de alto por 29cm de largo.",
-    "precio": "47.000"
+    "precio": "49.000"
 },
 {
     "id": "set-16",
-    "titulo": "Set de 4 piezas",
+    "titulo": "SIN STOCK",
     "imagen": "img/sets/set131.png",
     "imagenes_adicionales": [
         "img/sets/set133.png",
@@ -4316,7 +4312,7 @@
     },
     "descripcion": "Set de 4 piezas, impermeable. Incluye cartuchera, morral y bolso. No incluye pin.",
     "medidas": "Mochila: 43cm de alto por 31cm de largo.",
-    "precio": "41.000"
+    "precio": "53.000"
 },
 {
     "id": "set-18",
