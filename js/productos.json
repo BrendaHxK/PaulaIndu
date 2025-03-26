@@ -1075,7 +1075,7 @@
     },
 {
     "id": "cyb-03",
-    "titulo": "Bolsos",
+    "titulo": "SIN STOCK",
     "imagen": "img/cyb/screenshot_20240505-125109~2.png",
     "imagenes_adicionales": [
         "img/cyb/screenshot_20240505-125128~2.png",
@@ -1088,7 +1088,7 @@
         "nombre": "Carteras y bolsos",
         "id": "caryb"
     },
-    "descripcion": "Morral de tela impermeable",
+    "descripcion": "",
     "medidas": "26cm de alto por 34cm largo.",
     "precio": "50.000"
 },
@@ -1173,7 +1173,7 @@
         },
         "descripcion": "",
         "medidas": "16cm de alto por 24cm de largo.",
-        "precio": "32.000"
+        "precio": "35.000"
     },
     {
         "id": "cyb-08",
@@ -1434,7 +1434,7 @@
     },
     "descripcion": "",
     "medidas": "39cm de alto por 31cm de largo.",
-    "precio": "49.000"
+    "precio": "52.000"
 },
     {
         "id": "cyb-22",
@@ -1458,7 +1458,7 @@
         },
         "descripcion": "",
         "medidas": "36cm de alto por 30cm de largo.",
-        "precio": "26.000"
+        "precio": "31.000"
     },
     {
         "id": "cyb-23",
@@ -1548,7 +1548,7 @@
     },
     "descripcion": "",
     "medidas": "31cm de alto por 41cm de largo.",
-    "precio": "40.000"
+    "precio": "43.000"
 },
 {
     "id": "cyb-28",
@@ -1565,7 +1565,7 @@
     },
     "descripcion": "",
     "medidas": "28cm de alto por 36cm de largo.",
-    "precio": "40.000"
+    "precio": "46.000"
 },    
 {
     "id": "cyb-29",
@@ -1581,7 +1581,7 @@
     },
     "descripcion": "",
     "medidas": "19cm de alto por 28cm de largo.",
-    "precio": "38.000"
+    "precio": "43.000"
 },
 {
     "id": "cyb-30",
@@ -1598,7 +1598,7 @@
     },
     "descripcion": "",
     "medidas": "21cm de alto por 28cm de largo.",
-    "precio": "46.000"
+    "precio": "48.000"
 },
     {
         "id": "cyb-31",
@@ -1617,7 +1617,7 @@
         },
         "descripcion": "Cartera Tote Bag",
         "medidas": "21cm de alto por 27cm de largo.",
-        "precio": "55.000"
+        "precio": "60.000"
     },
 {
     "id": "cyb-32",
@@ -1636,7 +1636,7 @@
     },
     "descripcion": "Morral de tela impermeable",
     "medidas": "26cm de alto por 34cm largo.",
-    "precio": "50.000"
+    "precio": "53.000"
 },
     {
         "id": "cyb-33",
@@ -1971,7 +1971,7 @@
         "precio": "24.000"
     },
 {
-    "id": "P-014",
+    "id": "P-14",
     "titulo": "Morral cruzado",
     "imagen": "img/riñoneras y pecheras/Screenshot_20241221-123424-287.png",
     "imagenes_adicionales": [
@@ -1984,11 +1984,11 @@
     },
     "descripcion": "",
     "medidas": "Ver ultima foto",
-    "precio": "32.000"
+    "precio": "38.000"
 },    
     {
         "id": "r-01",
-        "titulo": "Riñonera",
+        "titulo": "SIN STOCK",
         "imagen": "img/Riñoneras y pecheras/Screenshot_20240518-182942~2.png",
         "imagenes_adicionales": [
             "img/Riñoneras y pecheras/Screenshot_20240518-182954~2.png",
@@ -2018,7 +2018,7 @@
         },
         "descripcion": "Riñonera impermeable.",
         "medidas": "14cm de alto por 20cm de largo.",
-        "precio": "21.000"
+        "precio": "27.000"
     },
     {
         "id": "r-03",
@@ -2117,7 +2117,7 @@
     },
     "descripcion": "",
     "medidas": "15cm de alto por 25cm de largo.",
-    "precio": "22.000"
+    "precio": "27.000"
 },
 {
     "id": "r-08",
@@ -2253,7 +2253,7 @@
         },
         "descripcion": "",
         "medidas": "37cm de alto por 25cm de largo",
-        "precio": "30.000"
+        "precio": "35.000"
     },
     {
         "id": "maternal-03",
@@ -2275,7 +2275,7 @@
         },
         "descripcion": "",
         "medidas": "40cm de alto por 26cm de largo.",
-        "precio": "26.000"
+        "precio": "35.000"
     },
 {
     "id": "maternal-04",
@@ -2292,7 +2292,7 @@
     },
     "descripcion": "",
     "medidas": "40cm de alto por 25cm de largo.",
-    "precio": "33.000"
+    "precio": "39.000"
 },
 {
     "id": "maternal-05",
@@ -2315,7 +2315,7 @@
     },
     "descripcion": "",
     "medidas": "37cm de alto por 31cm de largo y 13cm de profundidad.",
-    "precio": "48.000"
+    "precio": "52.000"
 },
 {
     "id": "maternal-06",
@@ -2333,7 +2333,7 @@
     },
     "descripcion": "Incluye compartimento para cable USB.",
     "medidas": "39cm de alto, 25cm de largo, 20cm de profundidad.",
-    "precio": "42.000"
+    "precio": "45.000"
 },
 {
     "id": "maternal-07",
@@ -2352,7 +2352,7 @@
     },
     "descripcion": "",
     "medidas": "Ver ultima foto",
-    "precio": "22.000"
+    "precio": "26.000"
 },
 {
     "id": "maternal-08",
@@ -2372,7 +2372,7 @@
     },
     "descripcion": "",
     "medidas": "Ver ultima foto",
-    "precio": "42.000"
+    "precio": "48.000"
 },  
 {
     "id": "maternal-09",
@@ -2394,7 +2394,7 @@
     },
     "descripcion": "Trae compartimento para cable USB.",
     "medidas": "40cm de alto por 35cm de largo",
-    "precio": "37.000"
+    "precio": "39.000"
 },
 {
     "id": "maternal-10",
@@ -2413,7 +2413,7 @@
     },
     "descripcion": "Incluye cambiador",
     "medidas": "Ver ultima foto.",
-    "precio": "50.000"
+    "precio": "57.000"
 },
 {
     "id": "maternal-11",
@@ -2430,7 +2430,7 @@
     },
     "descripcion": "Incluye cambiador",
     "medidas": "Ver ultima foto.",
-    "precio": "49.000"
+    "precio": "55.000"
 },
 {
     "id": "maternal-12",
@@ -2452,7 +2452,7 @@
     },
     "descripcion": "Es impermeable.",
     "medidas": "Ver ultima foto.",
-    "precio": "44.000"
+    "precio": "50.000"
 },
 {
     "id": "maternal-13",
@@ -2472,7 +2472,7 @@
     },
     "descripcion": "Es impermeable.",
     "medidas": "Ver ultima foto.",
-    "precio": "42.000"
+    "precio": "47.000"
 },
 {
     "id": "maternal-14",
@@ -2495,7 +2495,7 @@
     },
     "descripcion": "",
     "medidas": "Ver ultima foto.",
-    "precio": "34.000"
+    "precio": "39.000"
 },
 {
     "id": "maternal-15",
@@ -2513,11 +2513,11 @@
     },
     "descripcion": "",
     "medidas": "Ver ultima foto.",
-    "precio": "38.000"
+    "precio": "43.000"
 },
 {
     "id": "maternal-16",
-    "titulo": "Mesa comedor redonda",
+    "titulo": "SIN STOCK",
     "imagen": "img/maternal/Screenshot_20241218-162857-725.png",
     "imagenes_adicionales": [
         "img/maternal/Screenshot_20241218-162906-529.png",
@@ -2548,7 +2548,7 @@
     },
     "descripcion": "",
     "medidas": "",
-    "precio": "34.000"
+    "precio": "39.000"
 },
     {
         "id": "bolsos-01",
@@ -2612,7 +2612,7 @@
         },
         "descripcion": "Bolso deportivo impermeable.",
         "medidas": "25cm de alto, 46cm de largo, 23cm de profundidad.",
-        "precio": "29.000"
+        "precio": "34.000"
     },
     {
         "id": "bolsos-04",
@@ -2652,7 +2652,7 @@
     },
     {
         "id": "bolsos-06",
-        "titulo": "Bolso de viaje",
+        "titulo": "SIN STOCK",
         "imagen": "img/Bolsos deportivos/Screenshot_20241001-195203-306.png",
         "imagenes_adicionales": [
             "img/Bolsos deportivos/Screenshot_20241001-195143-777.png",
@@ -2898,11 +2898,11 @@
         },
         "descripcion": "Es impermeable",
         "medidas": "44cm de alto, 24cm de largo, 24cm de profundidad.",
-        "precio": "35.000"
+        "precio": "37.000"
     },
     {
         "id": "bolsos-19",
-        "titulo": "Bolso de viaje",
+        "titulo": "SIN STOCK",
         "imagen": "img/bolsos deportivos/Screenshot_20241212-164051-835.png",
         "imagenes_adicionales": [
             "img/bolsos deportivos/Screenshot_20241212-164040-450.png",
@@ -2938,7 +2938,7 @@
         },
         "descripcion": "Incluye compartimento para zapatillas.",
         "medidas": "28cm de alto, 46cm de largo, 25cm de profundidad.",
-        "precio": "36.000"
+        "precio": "37.000"
     },
     {
         "id": "bolsos-21",
@@ -2991,7 +2991,7 @@
         },
         "descripcion": "Bolso deportivo impermeable, incluye compartimento para zapatillas.",
         "medidas": "26cm de alto por 43cm de largo.",
-        "precio": "36.000"
+        "precio": "38.000"
     },
     {
         "id": "bolsos-24",
@@ -3134,9 +3134,9 @@
         },
         "descripcion": "",
         "medidas": "28cm de alto por 41cm de largo.",
-        "precio": "34.000"
+        "precio": "38.000"
     },
-{
+{   
     "id": "portaNot-02",
     "titulo": "Porta Notebook",
     "imagen": "img/notebook/Screenshot_20241221-130228-881.png",
