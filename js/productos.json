@@ -62,23 +62,23 @@
     },
     {
         "id": "mochila-04",
-        "titulo": "Mochila Impermeable",
-        "imagen": "./img/mochilas/Photoroom-20241028_085755.png",
+        "titulo": "Mochila reforzada",
+        "imagen": "img/mochilas/Screenshot_20250401-140635-429.png",
         "imagenes_adicionales": [
-            "img/Mochilas/Photoroom-20241028_085735.png",
-            "img/Mochilas/Photoroom-20241028_085817.png",
-            "img/Mochilas/Photoroom-20241028_085852 (1).png",
-            "img/Mochilas/Photoroom-20241028_090022.png",
-            "img/Mochilas/Photoroom-20241028_090043.png",
-            "img/Mochilas/WhatsApp Image 2024-12-08 at 16.40.36.jpeg"
+            "img/mochilas/Screenshot_20250401-140727-188.png",
+            "img/mochilas/Screenshot_20250401-140718-214.png",
+            "img/mochilas/Screenshot_20250401-140736-227.png",
+            "img/mochilas/Screenshot_20250401-140644-510.png",
+            "img/mochilas/Screenshot_20250401-140657-003.png",
+            "img/mochilas/Screenshot_20250401-140707-995.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "Mochila de tela impermeable, grande, varios compartimentos.",
-        "medidas": "47cm de alto por 34cm de largo",
-        "precio": "38.000"
+        "descripcion": "Mochila grande, varios compartimentos, es reforzada.",
+        "medidas": "46cm de alto por 31cm de largo",
+        "precio": "41.000"
     },
     {
         "id": "mochila-05",
@@ -138,21 +138,23 @@
     },
     {
         "id": "mochila-08",
-        "titulo": "Mochila reforzada",
-        "imagen": "./img/mochilas/2_20240601_122818_0001.png",
+        "titulo": "Mochila impermeable",
+        "imagen": "img/mochilas/Photoroom-20250401_151907.png",
         "imagenes_adicionales": [
-            "img/Mochilas/1_20240601_122818_0000.png",
-            "img/Mochilas/3_20240601_122818_0002.png",
-            "img/Mochilas/5_20240601_122818_0004.png",
-            "img/Mochilas/6_20240601_122818_0005.png"
+            "img/mochilas/Photoroom-20250401_151758.png",
+            "img/mochilas/Photoroom-20250401_151836.png",
+            "img/mochilas/Photoroom-20250401_151724.png",
+            "img/mochilas/Photoroom-20250401_151939.png",
+            "img/mochilas/Photoroom-20250401_152037.png",
+            "img/mochilas/Photoroom-20250401_152007.png"
             ],
         "categoria": {
             "nombre": "Mochilas",
             "id": "mochilas"
         },
-        "descripcion": "Mochila impermeable, reforzada. Varios compartimentos.",
-        "medidas": "48cm de alto por 35cm de largo.",
-        "precio": "39.000"
+        "descripcion": "Mochila impermeable, reforzada.",
+        "medidas": "45cm de alto por 35cm de largo.",
+        "precio": "42.000"
     },
     {
         "id": "mochila-09",
@@ -1075,7 +1077,7 @@
     },
 {
     "id": "cyb-03",
-    "titulo": "SIN STOCK",
+    "titulo": "Bolsos urbanos",
     "imagen": "img/cyb/screenshot_20240505-125109~2.png",
     "imagenes_adicionales": [
         "img/cyb/screenshot_20240505-125128~2.png",
@@ -1137,23 +1139,19 @@
     },
     {
         "id": "cyb-06",
-        "titulo": "Cartera",
-        "imagen": "./img/cyb/20241012_173728_0011.png",
+        "titulo": "Bolsos Tote Bag",
+        "imagen": "img/cyb/Screenshot_20250322-151405-173.png",
         "imagenes_adicionales": [
-            "img/cyb/20241012_173728_0010.png",
-            "img/cyb/20241012_173728_0006.png",
-            "img/cyb/20241012_173728_0005.png",
-            "img/cyb/20241012_173728_0007.png",
-            "img/cyb/20241012_173728_0009.png",
-            "img/cyb/20241012_173728_0008.png"
+            "img/cyb/Screenshot_20250322-151433-630.png",
+            "img/cyb/Screenshot_20250322-151419-743.png"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Carterita de cuero PU",
-        "medidas": "16cm de alto por 21cm de largo.",
-        "precio": "26.000"
+        "descripcion": "",
+        "medidas": "35cm de alto por 28cm de largo.",
+        "precio": "65.000"
     },
     {
         "id": "cyb-07",
@@ -1232,23 +1230,23 @@
     },
     {
         "id": "cyb-11",
-        "titulo": "Cartera / morral",
-        "imagen": "./img/cyb/20241012_160122_0000.png",
+        "titulo": "Morral impermeable",
+        "imagen": "img/riñoneras y pecheras/Morral382-Photoroom.jpg",
         "imagenes_adicionales": [
-            "img/cyb/20241012_160123_0001.png",
-            "img/cyb/20241012_160123_0002.png",
-            "img/cyb/20241012_160123_0003.png",
-            "img/cyb/20241012_160123_0004.png",
-            "img/cyb/20241012_160123_0005.png",
-            "img/cyb/20241012_160123_0006.png"
+            "img/riñoneras y pecheras/Morral383-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral380-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral381-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral384-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral385-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral386-Photoroom.jpg"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Cartera / morral, incluye tira larga. Doble compartimento.",
-        "medidas": "25cm de alto por 35cm de largo.",
-        "precio": "45.000"
+        "descripcion": "Morral impermeable, incluye tira larga y monederito. Varios compartimentos.",
+        "medidas": "18cm de alto por 24cm de largo.",
+        "precio": "32.000"
     },
     {
         "id": "cyb-12",
@@ -1269,23 +1267,25 @@
     },
     {
         "id": "cyb-13",
-        "titulo": "Cartera de cuero PU",
-        "imagen": "./img/cyb/8_20241012_163801_0007.png",
+        "titulo": "Morral de cuero PU",
+        "imagen": "img/riñoneras y pecheras/Morral378-Photoroom.jpg",
         "imagenes_adicionales": [
-            "img/cyb/7_20241012_163801_0006.png",
-            "img/cyb/9_20241012_163801_0008.png",
-            "img/cyb/5_20241012_163800_0004.png",
-            "img/cyb/10_20241012_163801_0009.png",
-            "img/cyb/6_20241012_163800_0005.png"
-
+            "img/riñoneras y pecheras/Morral377-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral376-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral375-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral374-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral373-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral370-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral371-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral372-Photoroom.jpg"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Cartera con tira desmontable, excelente calidad. Hecha con cuero ecológico.",
-        "medidas": "21cm de alto por 27cm de largo.",
-        "precio": "32.000"
+        "descripcion": "Morral de cuero PU rígido, con tira desmontable, excelente calidad.",
+        "medidas": "22cm de alto por 14cm de largo.",
+        "precio": "36.000"
     },
     {
         "id": "cyb-14",
@@ -1349,22 +1349,26 @@
     },
     {
         "id": "cyb-17",
-        "titulo": "Bolso de cuero ecológico",
-        "imagen": "./img/cyb/20241011_213719_0000.png",
+        "titulo": "Morrales multicolor",
+        "imagen": "img/riñoneras y pecheras/Morral361-Photoroom.jpg",
         "imagenes_adicionales": [
-            "img/cyb/20241011_213719_0001.png",
-            "img/cyb/20241011_213719_0002.png",
-            "img/cyb/20241011_213719_0004.png",
-            "img/cyb/20241011_213719_0003.png",
-            "img/cyb/20241011_213719_0005.png"
+            "img/riñoneras y pecheras/Morral362-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral363-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral363-Photoroom (1).jpg",
+            "img/riñoneras y pecheras/Morral365-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral366-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral3691-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral367-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral369-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral368-Photoroom.jpg"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Incluye tira larga desmontable.",
-        "medidas": "24cm de alto por 40cm de largo.",
-        "precio": "49.000"
+        "descripcion": "Hecho de cuero PU rígido, incluye tira desmontable. Excelente calidad.",
+        "medidas": "22cm de alto por 14cm de largo.",
+        "precio": "36.000"
     },
     {
         "id": "cyb-18",
@@ -1403,21 +1407,23 @@
     },
     {
         "id": "cyb-20",
-        "titulo": "Bolso",
-        "imagen": "./img/cyb/20241011_212221_0004.png",
+        "titulo": "Morral impermeable",
+        "imagen": "img/riñoneras y pecheras/Morral355-Photoroom.jpg",
         "imagenes_adicionales": [
-            "img/cyb/20241011_212221_0003.png",
-            "img/cyb/20241011_212221_0002.png",
-            "img/cyb/20241011_212221_0001.png",
-            "img/cyb/20241011_212221_0000.png"
+            "img/riñoneras y pecheras/Morral356-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral357-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral351-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral352-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral353-Photoroom.jpg",
+            "img/riñoneras y pecheras/Morral354-Photoroom.jpg"
             ],
         "categoria": {
             "nombre": "Carteras y bolsos",
             "id": "caryb"
         },
-        "descripcion": "Bolso de cuero PU.",
-        "medidas": "25cm de alto por 40cm de largo.",
-        "precio": "49.000"
+        "descripcion": "",
+        "medidas": "22cm de alto por 18cm de largo.",
+        "precio": "27.000"
     },
 {
     "id": "cyb-21",
@@ -4231,17 +4237,20 @@
 },
 {
     "id": "set-13",
-    "titulo": "Set de 4 piezas",
-    "imagen": "img/sets/set102.png",
+    "titulo": "Set kawaii, 4 piezas",
+    "imagen": "img/sets/Screenshot_20250322-152958-372.png",
     "imagenes_adicionales": [
-        ""
+        "img/sets/Screenshot_20250322-153007-120.png",
+        "img/sets/Screenshot_20250322-153018-508.png",
+        "img/sets/Screenshot_20250322-153028-597.png",
+        "img/sets/Screenshot_20250322-153037-723.png"
         ],
     "categoria": {
         "nombre": "Sets de mochilas",
         "id": "set"
     },
-    "descripcion": "Set de 4 piezas, impermeable. Incluye neceser y bolso.",
-    "medidas": "Mochila: 41cm de alto por 30cm de largo.",
+    "descripcion": "Set de 4 piezas, impermeable. Incluye morral, bolso y cartuchera.",
+    "medidas": "Mochila: 38cm de alto por 30cm de largo.",
     "precio": "56.000"
 },
 {
@@ -4333,100 +4342,5 @@
     "descripcion": "Set de 4 piezas, impermeable. Incluye mochila, bolso, morral y cartuchera.",
     "medidas": "Mochila: 43cm de alto por 36cm de largo.",
     "precio": "42.000"
-},    
-    {
-        "id": "verano-01",
-        "titulo": "Bolso playero",
-        "imagen": "img/verano/20240928_110813_0004.png",
-        "imagenes_adicionales": [
-            "img/verano/20240928_110813_0005.png",
-            "img/verano/20240928_110813_0003.png",
-            "img/verano/20240928_110813_0001.png",
-            "img/verano/20240928_110814_0008.png",
-            "img/verano/20240928_110813_0007.png",
-            "img/verano/20240928_110813_0006.png",
-            "img/verano/20240928_110814_0009.png"
-            ],
-        "categoria": {
-            "nombre": "Bolso playero",
-            "id": "verano"
-        },
-        "descripcion": "Playero de lona impermeable.",
-        "medidas": "35cm de alto por 40cm de largo.",
-        "precio": "26.000"
-    },
-    {
-        "id": "verano-02",
-        "titulo": "Bolso playero",
-        "imagen": "img/verano/photoroom-20240819_194126~2.png",
-        "imagenes_adicionales": [
-            "img/verano/photoroom-20240819_192316~2.png",
-            "img/verano/20240928_110813_0003.png",
-            "img/verano/20240928_110813_0001.png",
-            "img/verano/photoroom-20240819_192039~2.png",
-            "img/verano/photoroom-20240819_192218~2.png",
-            "img/verano/photoroom-20240819_192113~2.png",
-            "img/verano/photoroom-20240819_192248~2.png"
-            ],
-        "categoria": {
-            "nombre": "Bolso playero",
-            "id": "verano"
-        },
-        "descripcion": "Playero de lona impermeable.",
-        "medidas": "36cm de alto por 52cm de largo.",
-        "precio": "22.000"
-    },
-    {
-        "id": "verano-03",
-        "titulo": "Bolso playero grande",
-        "imagen": "img/verano/photoroom-20240819_194021~2.png",
-        "imagenes_adicionales": [
-            "img/verano/photoroom-20240819_194149~2.png",
-            "img/verano/photoroom-20240819_194218~2.png",
-            "img/verano/photoroom-20240819_194244~2.png",
-            "img/verano/photoroom-20240819_194056~2.png",
-            "img/verano/photoroom-20240819_194126~2.png"
-            ],
-        "categoria": {
-            "nombre": "Bolso playero",
-            "id": "verano"
-        },
-        "descripcion": "Playero de lona impermeable.",
-        "medidas": "39cm de alto por 55cm de largo.",
-        "precio": "22.000"
-    },
-{
-    "id": "billetera-01",
-    "titulo": "Billetera de Boca",
-    "imagen": "img/billeteras/Photoroom-20241226_121001.png",
-    "imagenes_adicionales": [
-        "img/billeteras/Photoroom-20241226_121100.png",
-        "img/billeteras/Photoroom-20241226_121022.png",
-        "img/billeteras/Photoroom-20241226_121043.png"
-        ],
-    "categoria": {
-        "nombre": "Billeteras",
-        "id": "billeteras"
-    },
-    "descripcion": "Billetera de Boca Junior original, hecha de cuero PU.",
-    "medidas": "12cm de alto por 9cm de largo.",
-    "precio": "22.000"
-},
-{
-    "id": "billetera-02",
-    "titulo": "Billetera de River",
-    "imagen": "img/billeteras/Photoroom-20241226_121126.png",
-    "imagenes_adicionales": [
-        "img/billeteras/Photoroom-20241226_121230.png",
-        "img/billeteras/Photoroom-20241226_121210.png",
-        "img/billeteras/Photoroom-20241226_121150.png"
-        ],
-    "categoria": {
-        "nombre": "Billeteras",
-        "id": "billeteras"
-    },
-    "descripcion": "Billetera de River Plate original, hecha de cuero PU.",
-    "medidas": "12cm de alto por 9cm de largo.",
-    "precio": "22.000"
-}    
+}
 ]
